@@ -1,277 +1,34 @@
 calle;calleClean;name;surname;fiabilidad;gender;wikipedia
-Calle San Juan de Dios;San Juan Dios;San;Juan;-2;Male
-Calle San Juan;San Juan;San;Juan;-2;Male
-Calle Cosme;Cosme;Cosme;;-2;Male
-Calle Alfaro;Alfaro;Alfaro;;-2;Male
-Calle Valle Escondido;Valle Escondido;Valle;Escondido;2;Female;https://es.wikipedia.org/wiki/Michaelle_Ascencio
-Calle Las Cruces;Las Cruces;Las;Cruces;2;Female;https://es.wikipedia.org/wiki/L%C3%ADa_Crucet
-Calle La Esperanza;La Esperanza;La;Esperanza;2;Female;https://es.wikipedia.org/wiki/Ana_Esperanza_Franco-Molano
-Calle Cámara de Ganaderos;Cámara Ganaderos;Cámara;Ganaderos;-2;Male
-Calle Los Román;Los Román;Los;Román;-2;Male
-Calle Concepción;Concepción;Concepción;;2;Female;https://es.wikipedia.org/wiki/Concepci%C3%B3n_Dancausa
-Calle Salas;Salas;Salas;;2;Female;https://es.wikipedia.org/wiki/Ada_Salas
-Calle Rafael Barroeta;Rafael Barroeta;Rafael;Barroeta;-2;Male
-Calle La Victoria;La Victoria;La;Victoria;2;Female;https://es.wikipedia.org/wiki/L%C3%ADa_Victoria_Borrero_Gonz%C3%A1lez
-Calle Generosa;Generosa;Generosa;;2;Female;https://es.wikipedia.org/wiki/Generosa
-Calle La Virgen;La Virgen;La;Virgen;2;Female;https://es.wikipedia.org/wiki/Isabel_de_Hungr%C3%ADa_la_virgen
-Avenida Segunda;Segunda;Segunda;;2;Female;https://es.wikipedia.org/wiki/Radegunda
-Calle San Martín;San Martín;San;Martín;-2;Male
-Calle Candelaria;Candelaria;Candelaria;;2;Female;https://es.wikipedia.org/wiki/Candelaria_Martes
-Calle San Rafael;San Rafael;San;Rafael;-2;Male
-Calle La Palma;La Palma;La;Palma;2;Female;https://es.wikipedia.org/wiki/Lola_Palat%C3%ADn
-Calle Divino Niño;Divino Niño;Divino;Niño;-2;Male
-Calle La Paz;La Paz;La;Paz;2;Female;https://es.wikipedia.org/wiki/Marcela_Paz
-Calle llanos Oeste;llanos Oeste;llanos;Oeste;2;Female;https://es.wikipedia.org/wiki/Blanca_Estela_L%C3%B3pez_P%C3%A9rez
-Calle Los Llanos;Los Llanos;Los;Llanos;2;Female;https://es.wikipedia.org/wiki/Marga_de_los_Llanos
-Calle Llanos Este;Llanos Este;Llanos;Este;2;Female;https://es.wikipedia.org/wiki/Blanca_Estela_Pav%C3%B3n
-Avenida Llanos;Llanos;Llanos;;2;Female;https://es.wikipedia.org/wiki/Amparo_Llanos
-Calle Esteban;Esteban;Esteban;;-2;Male
-Calle Segunda;Segunda;Segunda;;2;Female;https://es.wikipedia.org/wiki/Radegunda
-Principal Natura Viva;Natura Viva;Natura;Viva;2;Female;https://es.wikipedia.org/wiki/Aura_Rivas
-Calle La Margarita;La Margarita;La;Margarita;2;Female;https://es.wikipedia.org/wiki/Ana_Margarita_Esper%C3%B3n_Lara
-Calle Cristóbal;Cristóbal;Cristóbal;;-2;Male
-Calle San Vicente;San Vicente;San;Vicente;-2;Male
-Calle Paloma;Paloma;Paloma;;2;Female;https://es.wikipedia.org/wiki/Paloma_del_Sol
-Avenida La Fraternidad;La Fraternidad;La;Fraternidad;2;Female;https://es.wikipedia.org/wiki/La_Materialista
-Calle Román;Román;Román;;-2;Male
-Calle San Luis;San Luis;San;Luis;-2;Male
-Calle Guillén;Guillén;Guillén;;-2;Male
-Radial San Antonio;Radial San Antonio;Radial;San;-2;Male
-Boulevard Alcides Jiménez Rojas;Alcides Jiménez Rojas;Alcides;Jiménez;2;Female;https://es.wikipedia.org/wiki/Elisa_Jim%C3%A9nez_Armas
-Calle Francia;Francia;Francia;;2;Female;https://es.wikipedia.org/wiki/Francia_M%C3%A1rquez
-Calle Altos de San Rafael;Altos San Rafael;Altos;San;-2;Male
-Calle Nardo Rivera;Nardo Rivera;Nardo;Rivera;-2;Male
-Calle Bajo La Cruz;Bajo La Cruz;Bajo;La;2;Female;https://es.wikipedia.org/wiki/Ada_de_la_Cruz
-Radial Santa Ana;Radial Santa Ana;Radial;Santa;2;Female;https://es.wikipedia.org/wiki/Muriel_Santa_Ana
-Calle Isidro;Isidro;Isidro;;-2;Male
-Calle San Gabriel;San Gabriel;San;Gabriel;-2;Male
-Puente Alfredo González Flores;Alfredo González Flores;Alfredo;González;-2;Male
-Calle Prados del Convento;Prados Convento;Prados;Convento;2;Female;https://es.wikipedia.org/wiki/Lourdes_Centeno
-Calle Primavera;Primavera;Primavera;;2;Female;https://es.wikipedia.org/wiki/Primavera_Izaguirre
-Calle León Cortés;León Cortés;León;Cortés;-2;Male
-Boulevard Ernesto Rohrmoser;Ernesto Rohrmoser;Ernesto;Rohrmoser;-2;Male
-Calle La Inmaculada;La Inmaculada;La;Inmaculada;2;Female;https://es.wikipedia.org/wiki/Inmaculada_Herrera_Calvet
-Calle Amapola;Amapola;Amapola;;2;Female;https://es.wikipedia.org/wiki/Amapola_Cabase
-Calle Coca Cola;Coca Cola;Coca;Cola;2;Female;https://es.wikipedia.org/wiki/Rebecca_Clarke
-Avenida La Gardenia;La Gardenia;La;Gardenia;2;Female;https://es.wikipedia.org/wiki/Fidela_Gardeta
-Avenida La Orquídea;La Orquídea;La;Orquídea;2;Female;https://es.wikipedia.org/wiki/Carla_Rueda
-Puente Juan Pablo II;Juan Pablo II;Juan;Pablo;-2;Male
-Calle Delfina;Delfina;Delfina;;2;Female;https://es.wikipedia.org/wiki/Delfina_Varni
-Paseo de la Segunda República;Segunda República;Segunda;República;2;Female;https://es.wikipedia.org/wiki/Aldegunda_de_Baviera
-Calle Monte Abajo;Monte Abajo;Monte;Abajo;2;Female;https://es.wikipedia.org/wiki/Bronte_Barratt
-Calle Antigua;Antigua;Antigua;;2;Female;https://es.wikisource.org/wiki/Autor:Sor_Mar%C3%ADa_de_la_Antigua
-Calle Monte Oeste;Monte Oeste;Monte;Oeste;2;Female;https://es.wikipedia.org/wiki/Montse_Castell%C3%A0
-Calle Isabel Agüero;Isabel Agüero;Isabel;Agüero;2;Female;https://es.wikipedia.org/wiki/Isabel_Guerra
-Calle Los Castro;Los Castro;Los;Castro;-2;Male
-Calle Santa Eduviges;Santa Eduviges;Santa;Eduviges;2;Female;https://es.wikipedia.org/wiki/Mar%C3%ADa_Eduviges_de_Hesse-Darmstadt
-Calle Perú;Perú;Perú;;-2;Male
-Calle Maná;Maná;Maná;;2;Female;https://es.wikipedia.org/wiki/Mandy_Moore
-Calle Noé Marín;Noé Marín;Noé;Marín;-2;Male
-Calle La Mina;La Mina;La;Mina;2;Female;https://es.wikipedia.org/wiki/Noula_Mina
-Calle Carmen;Carmen;Carmen;;2;Female;https://es.wikipedia.org/wiki/Carmen_Rodr%C3%ADguez_(yudoca)
-Calle Samuel Piano;Samuel Piano;Samuel;Piano;-2;Male
-Calle La Catalina;La Catalina;La;Catalina;2;Female;https://es.wikipedia.org/wiki/Ana_Catalina_Constanza_Vasa
-Calle Hoja Blanca;Hoja Blanca;Hoja;Blanca;2;Female;https://es.wikipedia.org/wiki/Teodora_Blanco_N%C3%BA%C3%B1ez
-Calle Vica León;Vica León;Vica;León;2;Female;https://es.wikipedia.org/wiki/Silvia_Le%C3%B3n
-Calle Juan Santana;Juan Santana;Juan;Santana;-2;Male
-Calle Jesús León;Jesús León;Jesús;León;-2;Male
-Calle Pinar;Pinar;Pinar;;2;Female;https://es.wikipedia.org/wiki/Pinar_Budak
-Calle San Miguel;San Miguel;San;Miguel;-2;Male
-Calle Santa Teresa;Santa Teresa;Santa;Teresa;2;Female;https://es.wikipedia.org/wiki/Teresa_de_Portugal,_condesa_de_Flandes
-Calle Francisco Corrales;Francisco Corrales;Francisco;Corrales;-2;Male
-Calle León;León;León;;-2;Male
-Calle San Antonio;San Antonio;San;Antonio;-2;Male
-Calle Manuel Sandí;Manuel Sandí;Manuel;Sandí;-2;Male
-Calle Mora;Mora;Mora;;2;Female;https://es.wikipedia.org/wiki/Moran_Samuel
-Calle Sotero;Sotero;Sotero;;-2;Male
-Calle San Francisco;San Francisco;San;Francisco;-2;Male
-Calle Rodney Herrera;Rodney Herrera;Rodney;Herrera;-2;Male
-Calle Juan XXIII;Juan XXIII;Juan;XXIII;-2;Male
-Avenida Víctor Méndez;Víctor Méndez;Víctor;Méndez;-2;Male
-Calzada Gastón Michelli;Gastón Michelli;Gastón;Michelli;-2;Male
-Avenida Ricardo Orfila;Ricardo Orfila;Ricardo;Orfila;-2;Male
-Calle Nazareno;Nazareno;Nazareno;;-2;Male
-Calle Claudio Rodríguez;Claudio Rodríguez;Claudio;Rodríguez;-2;Male
-Calle Estéfana;Estéfana;Estéfana;;2;Female;https://es.wikipedia.org/wiki/Est%C3%A9fani_Esp%C3%ADn
-Calle Justo Hernández;Justo Hernández;Justo;Hernández;-2;Male
-Calle Juan Martínez;Juan Martínez;Juan;Martínez;-2;Male
-Avenida Montes Urales;Montes Urales;Montes;Urales;2;Female;https://es.wikipedia.org/wiki/Montserrat_Se%C3%B1aba
-Calle Montes Himalaya;Montes Himalaya;Montes;Himalaya;2;Female;https://es.wikipedia.org/wiki/Simone_Thomalla
-Avenida Monte Blanco;Monte Blanco;Monte;Blanco;2;Female;https://es.wikipedia.org/wiki/Sonia_Blanco
-Calle del Castillo;Castillo;Castillo;;2;Female;https://es.wikipedia.org/wiki/Castillo_Su%C3%A1rez
-Calle Duarte;Duarte;Duarte;;-2;Male
-Calle la Isla;la Isla;la;Isla;2;Female;https://es.wikipedia.org/wiki/Ladislava_Bakanic
-Calle Azahar;Azahar;Azahar;;2;Female;https://es.wikipedia.org/wiki/Azahara_Mu%C3%B1oz
-Calle La Fe;La Fe;La;Fe;2;Female;https://es.wikipedia.org/wiki/Lola_Fern%C3%A1ndez
-Calle Sánchez Cruz;Sánchez Cruz;Sánchez;Cruz;2;Female;https://es.wikipedia.org/wiki/Leticia_S%C3%A1nchez_Ruiz
-Calle Santa Rosa;Santa Rosa;Santa;Rosa;2;Female;https://es.wikipedia.org/wiki/Ana_Rosa_Flores
-Avenida La Marina;La Marina;La;Marina;2;Female;https://es.wikipedia.org/wiki/Mila_Marinova
-Calle Florencio del Castillo;Florencio Castillo;Florencio;Castillo;-2;Male
-Calle San Diego;San Diego;San;Diego;-2;Male
-Calle El Valle;El Valle;El;Valle;2;Female;https://es.wikipedia.org/wiki/Fe_del_Valle
-Calle Viena;Viena;Viena;;2;Female;https://es.wikipedia.org/wiki/Viena_Ruiz
-Calle San Carlos;San Carlos;San;Carlos;-2;Male
-Calle Santa Marta;Santa Marta;Santa;Marta;2;Female;https://es.wikipedia.org/wiki/Cara_Santa_Maria
-Calle Inmaculada;Inmaculada;Inmaculada;;2;Female;https://es.wikipedia.org/wiki/Inmaculada_Palencia
-Calle La Palmira;La Palmira;La;Palmira;2;Female;https://es.wikipedia.org/wiki/Antonella_Palmisano
-Calle Progreso;Progreso;Progreso;;-2;Male
-Calle Pájaro Azul;Pájaro Azul;Pájaro;Azul;2;Female;https://es.wikipedia.org/wiki/Amparo_Alonso_Betanzos
-Calle Jade;Jade;Jade;;2;Female;https://es.wikipedia.org/wiki/Jade_Raymond
-Calle Rubí;Rubí;Rubí;;2;Female;https://es.wikipedia.org/wiki/Rub%C3%AD_Sandoval
-Calle Trinidad;Trinidad;Trinidad;;2;Female;https://es.wikipedia.org/wiki/Trinidad_Mart%C3%ADnez_Tarrag%C3%B3
-Calle Eulalia;Eulalia;Eulalia;;2;Female;https://es.wikipedia.org/wiki/Eulalia_Vintr%C3%B3
-Calle Florencia;Florencia;Florencia;;2;Female;https://es.wikipedia.org/wiki/Florencia_Canale
-Calle Pérez;Pérez;Pérez;;-2;Male
-Calle La Isla;La Isla;La;Isla;2;Female;https://es.wikipedia.org/wiki/Ladislava_Bakanic
-Calle El Carmen;El Carmen;El;Carmen;2;Female;https://es.wikipedia.org/wiki/Jewel_Carmen
-Calle San Sebastián;San Sebastián;San;Sebastián;-2;Male
-Calle Ricardo Solano;Ricardo Solano;Ricardo;Solano;-2;Male
-Calle Pila Rica;Pila Rica;Pila;Rica;2;Female;https://es.wikipedia.org/wiki/Pilar_Cancela_Rodr%C3%ADguez
-Calle Romana;Romana;Romana;;2;Female;https://es.wikipedia.org/wiki/Romana_De_Piaggi
-Calle La Marta;La Marta;La;Marta;2;Female;https://es.wikipedia.org/wiki/La_Cartagenera
-Quinta de Vanessa;Quinta de Vanessa;Quinta;de;2;Female;https://es.wikipedia.org/wiki/Enriqueta_de_Nassau-Weilburg
-Calle Pancracio;Pancracio;Pancracio;;-2;Male
-Camino Santa Teresita - Peralta;Santa Teresita - Peralta;Santa;Teresita;2;Female;https://es.wikipedia.org/wiki/Etna_Teresita_Pascacio_Montijo
-Calle Maximiliano;Maximiliano;Maximiliano;;-2;Male
-Calle Celestino Elizondo;Celestino Elizondo;Celestino;Elizondo;-2;Male
-Calle Corazón de Jesús;Corazón Jesús;Corazón;Jesús;2;Female;https://es.wikipedia.org/wiki/Coraz%C3%B3n_Aquino
-Calle San José de la Montaña;San José Montaña;San;José;-2;Male
-Calle Del Valle;Del Valle;Del;Valle;2;Female;https://es.wikipedia.org/wiki/Fe_del_Valle
-Calle La Roca;La Roca;La;Roca;2;Female;https://es.wikipedia.org/wiki/Julia_Roca
-Calle Santa Juana;Santa Juana;Santa;Juana;2;Female;https://es.wikipedia.org/wiki/Juana_de_Arag%C3%B3n_(infanta)
-Calle Vara Blanca;Vara Blanca;Vara;Blanca;2;Female;https://es.wikipedia.org/wiki/Sara_Blanch
-Calle Río Seco;Calle  Seco;Calle;;-2;Male
-C/ San Antonio;San Antonio;San;Antonio;-2;Male
-Paseo del Mar;Mar;Mar;;2;Female;https://es.wikipedia.org/wiki/Margarita_de_Montferrato
-Valle Pura Vida;Pura Vida;Pura;Vida;2;Female;https://es.wikipedia.org/wiki/Pura_Vila_y_Linares
-valle pura vida;valle pura vida;valle;pura;2;Female;https://es.wikipedia.org/wiki/Violeta_Vidaurre
-Sendero Playa Manuel Antonio Trail;Playa Manuel Antonio Trail;Playa;Manuel;-2;Male
-Chaka Loop trail;Chaka Loop trail;Chaka;Loop;-2;Male
-San Miguel trail;San Miguel trail;San;Miguel;-2;Male
-Trail Cerro Ena;Trail Cerro Ena;Trail;Cerro;2;Female;https://es.wikipedia.org/wiki/Coral_Herrera
-Calle San Ignacio;San Ignacio;San;Ignacio;-2;Male
-Calle Mango Magno;Mango Magno;Mango;Magno;-2;Male
-Calle Marisol;Marisol;Marisol;;2;Female;https://es.wikipedia.org/wiki/Marisol
-Calle Asdrúbal Mena;Asdrúbal Mena;Asdrúbal;Mena;-2;Male
-Calle Fila Margarita;Fila Margarita;Fila;Margarita;2;Female;https://es.wikipedia.org/wiki/Luisa_Margarita_de_Prusia
-Calle Mario Martínez;Mario Martínez;Mario;Martínez;-2;Male
-Calle Jesús Fernández;Jesús Fernández;Jesús;Fernández;-2;Male
-Calle Alto Bella Vista;Alto Bella Vista;Alto;Bella;2;Female;https://es.wikipedia.org/wiki/Antonella_Costa
-Calle San Jerónimo;San Jerónimo;San;Jerónimo;-2;Male
-Calle San Juan Chiquito;San Juan Chiquito;San;Juan;-2;Male
-Calle La Vuelta del Nica;La Vuelta Nica;La;Vuelta;-2;Male
-Puente Yolanda Oreamuno;Yolanda Oreamuno;Yolanda;Oreamuno;2;Female;https://es.wikipedia.org/wiki/Yolanda_Oreamuno
-Calle Lang;Lang;Lang;;-2;Male
-Avenida José Cecilio del Valle;José Cecilio Valle;José;Cecilio;-2;Male
-Calle Florida;Florida;Florida;;2;Female;https://es.wikipedia.org/wiki/Florida_Ciut%C4%83
-Calle Centro América;Centro América;Centro;América;2;Female;https://es.wikipedia.org/wiki/Carmen_Am%C3%A9rica_Fern%C3%A1ndez
-Calle Alfredo Volio;Alfredo Volio;Alfredo;Volio;-2;Male
-Calle Juan Santamaría;Juan Santamaría;Juan;Santamaría;-2;Male
-Calle Juan Rafael Mora;Juan Rafael Mora;Juan;Rafael;-2;Male
-Avenida Libertador Juan Rafael Mora;Libertador Juan Rafael Mora;Libertador;Juan;-2;Male
-Avenida Simón Bolívar;Simón Bolívar;Simón;Bolívar;-2;Male
-Calle Fray Martín de Porres;Fray Martín Porres;Fray;Martín;-2;Male
-Rotonda de San Sebastián;San Sebastián;San;Sebastián;-2;Male
-Avenida Adolfo Carit Eva;Adolfo Carit Eva;Adolfo;Carit;-2;Male
-Avenida Estado de Israel;Estado Israel;Estado;Israel;-2;Male
-Calle Altamira;Altamira;Altamira;;2;Female;https://es.wikipedia.org/wiki/Lucha_Altamirano
-Calle Marcial Segura;Marcial Segura;Marcial;Segura;-2;Male
-Calle Casa Blanca;Casa Blanca;Casa;Blanca;2;Female;https://es.wikipedia.org/wiki/Claudia_Casabianca
-Calle Luna;Luna;Luna;;2;Female;https://es.wikipedia.org/wiki/Luna_Maya
-Calle La Esmeralda;La Esmeralda;La;Esmeralda;2;Female;https://es.wikipedia.org/wiki/Estela_Esmeralda_Tafolla
-Calle Ligia Méndez;Ligia Méndez;Ligia;Méndez;2;Female;https://es.wikipedia.org/wiki/Laura_M%C3%A9ndez_de_Cuenca
-Calle San Bosco;San Bosco;San;Bosco;-2;Male
-Calle San Cayetano;San Cayetano;San;Cayetano;-2;Male
-Calle San Pancracio;San Pancracio;San;Pancracio;-2;Male
-Paseo Rubén Darío;Rubén Darío;Rubén;Darío;-2;Male
-Calle Edgar Ardón;Edgar Ardón;Edgar;Ardón;-2;Male
-Rotonda Luis Cruz Mesa;Luis Cruz Mesa;Luis;Cruz;-2;Male
-Calle La Cruz;La Cruz;La;Cruz;2;Female;https://es.wikipedia.org/wiki/Ada_de_la_Cruz
-Calle Damiana;Damiana;Damiana;;2;Female;https://es.wikipedia.org/wiki/Damiana_Eugenio
-Calle La Mora;La Mora;La;Mora;2;Female;https://es.wikipedia.org/wiki/Lola_Mora
-Calle Las Mercedes;Las Mercedes;Las;Mercedes;2;Female;https://es.wikipedia.org/wiki/Mar%C3%ADa_de_las_Mercedes_Rico_Carabias
-Avenida Concordia;Concordia;Concordia;;2;Female;https://es.wikipedia.org/wiki/Concordia_Selander
-Calle Juan Félix Acuña;Juan Félix Acuña;Juan;Félix;-2;Male
-Calle La Orquídea;La Orquídea;La;Orquídea;2;Female;https://es.wikipedia.org/wiki/Carla_Rueda
-Calle Emma Gamboa;Emma Gamboa;Emma;Gamboa;2;Female;https://es.wikipedia.org/wiki/Emma_Gamboa_Alvarado
-Calle Faustinoi Montes de Oca;Faustinoi Montes Oca;Faustinoi;Montes;2;Female;https://es.wikipedia.org/wiki/Justine_Mintsa
-Calle Marín Muñoz;Marín Muñoz;Marín;Muñoz;-2;Male
-Calle La Bamba;La Bamba;La;Bamba;-2;Male
-Avenida Sierra Madre;Sierra Madre;Sierra;Madre;2;Female;https://es.wikipedia.org/wiki/Sierra_McCormick
-Calle Amador;Amador;Amador;;-2;Male
-Calle Viviana;Viviana;Viviana;;2;Female;https://es.wikipedia.org/wiki/Viviana_Scarlassa
-La Constancia;La Constancia;La;Constancia;2;Female;https://es.wikipedia.org/wiki/Paulina_Constancia
-Calle Jamaica;Jamaica;Jamaica;;2;Female;https://es.wikipedia.org/wiki/Jamaica_Kincaid
-Auto Crem Rica;Crem Rica;Crem;Rica;2;Female;https://es.wikipedia.org/wiki/Andrea_Rica_Taboada
 Calle Linda Vista;Linda Vista;Linda;Vista;2;Female;https://es.wikipedia.org/wiki/Linda_Stahl
-Calle El Progreso;El Progreso;El;Progreso;-2;Male
-Calle Crisóstomo Porras;Crisóstomo Porras;Crisóstomo;Porras;-2;Male
-Sendero Micaela;Micaela;Micaela;;2;Female;https://es.wikipedia.org/wiki/Micaela_de_Luj%C3%A1n
-Calle Del Cristo;Del Cristo;Del;Cristo;-2;Male
-Calle La Rosa;La Rosa;La;Rosa;2;Female;https://es.wikipedia.org/wiki/%C3%81ngela_Vallina
-Calle Fernando Vargas;Fernando Vargas;Fernando;Vargas;-2;Male
-Calle Tilo Vargas;Tilo Vargas;Tilo;Vargas;-2;Male
-Calle Carlos Tamuga;Carlos Tamuga;Carlos;Tamuga;-2;Male
-Calle Taller de Chanel;Taller Chanel;Taller;Chanel;2;Female;https://es.wikipedia.org/wiki/Hayley_Chase
-Calle Santiago;Santiago;Santiago;;-2;Male
-Calle Rafael Solano;Rafael Solano;Rafael;Solano;-2;Male
-Calle Santa Lucía;Santa Lucía;Santa;Lucía;2;Female;https://es.wikipedia.org/wiki/Marta_Luc%C3%ADa_Ram%C3%ADrez
-Calle San José;San José;San;José;-2;Male
-Calle Ángeles;Ángeles;Ángeles;;2;Female;https://es.wikipedia.org/wiki/%C3%81ngeles_Maestro
-Calle Granja Zaragoza;Granja Zaragoza;Granja;Zaragoza;2;Female;https://es.wikipedia.org/wiki/Rosa_Zaragoza_Junc%C3%A0
-Calle Paulino Ulate;Paulino Ulate;Paulino;Ulate;-2;Male
-Calle Sancho;Sancho;Sancho;;-2;Male
-Calle Rubén Rojas;Rubén Rojas;Rubén;Rojas;-2;Male
-Calle Ivo Rojas;Ivo Rojas;Ivo;Rojas;-2;Male
-Calle San Isidro;San Isidro;San;Isidro;-2;Male
-Calle Marín;Marín;Marín;;-2;Male
-Calle Mercedes;Mercedes;Mercedes;;2;Female;https://es.wikipedia.org/wiki/Mercedes_de_Jes%C3%BAs_Molina
-Calle Mimi;Mimi;Mimi;;2;Female;https://es.wikipedia.org/wiki/Mimi_Aguglia
-Calle San Peter;San Peter;San;Peter;-2;Male
-Calle Castro;Castro;Castro;;-2;Male
-Avenida Minerva;Minerva;Minerva;;2;Female;https://es.wikipedia.org/wiki/Minerva_Piquero
-Calle Ronda;Ronda;Ronda;;2;Female;https://es.wikipedia.org/wiki/Ronda_Rousey
-Avenida Poza Azul;Poza Azul;Poza;Azul;2;Female;https://es.wikipedia.org/wiki/Pola_Alonso
-Avenida Flores;Flores;Flores;;2;Female;https://es.wikipedia.org/wiki/Florestina_de_M%C3%B3naco
-Avenida Central Abel Rodríguez Vargas;Central Abel Rodríguez Vargas;Central;Abel;-2;Male
-Boulevard Jorge Debravo;Jorge Debravo;Jorge;Debravo;-2;Male
-Calle La Mariana;La Mariana;La;Mariana;2;Female;https://es.wikipedia.org/wiki/Paula_Oliveto
-Calle Santa Cecilia;Santa Cecilia;Santa;Cecilia;2;Female;https://es.wikipedia.org/wiki/Rossana_Cecilia_Surballe
-Calle Monte Negro;Monte Negro;Monte;Negro;2;Female;https://es.wikipedia.org/wiki/Ana_Montenegro
-Calle Pïedra Blanca;Pïedra Blanca;Pïedra;Blanca;2;Female;https://es.wikipedia.org/wiki/Javiera_Blanco
-Calle La Primavera;La Primavera;La;Primavera;2;Female;https://es.wikipedia.org/wiki/Primavera_Garbarino
-Calle Rafaela Madrigal;Rafaela Madrigal;Rafaela;Madrigal;2;Female;https://es.wikipedia.org/wiki/Rafaela_Padilla_de_la_Garza
-Barrio Santa Lucia;Barrio Santa Lucia;Barrio;Santa;2;Female;https://es.wikipedia.org/wiki/Adriana_Luc%C3%ADa
-Calle La Rosita;La Rosita;La;Rosita;2;Female;https://es.wikipedia.org/wiki/Cuca_Roseta
-Calle Mercedes Valverde;Mercedes Valverde;Mercedes;Valverde;2;Female;https://es.wikipedia.org/wiki/Mercedes_Valdivieso
-Calle San Gerardo;San Gerardo;San;Gerardo;-2;Male
-Calle Agripino Aguilar;Agripino Aguilar;Agripino;Aguilar;-2;Male
-Calle Estrella del Sur;Estrella Sur;Estrella;Sur;2;Female;https://es.wikipedia.org/wiki/Estrella_Ortiz
-Calle Blanca Durán;Blanca Durán;Blanca;Durán;2;Female;https://es.wikipedia.org/wiki/Blanca_Err%C3%A1zuriz
-Calle Ingrid;Ingrid;Ingrid;;2;Female;https://es.wikipedia.org/wiki/Ingrid_Bjoner
-Calle Santa Teresita;Santa Teresita;Santa;Teresita;2;Female;https://es.wikipedia.org/wiki/Etna_Teresita_Pascacio_Montijo
-Calle Santa Elena;Santa Elena;Santa;Elena;2;Female;https://es.wikipedia.org/wiki/Ana_Elena_Garuz
-Calle El Sol;El Sol;El;Sol;2;Female;https://es.wikipedia.org/wiki/Isabel_Soler
-Calle Abelino;Abelino;Abelino;;-2;Male
-Santa Barbara;Santa Barbara;Santa;Barbara;2;Female;https://es.wikipedia.org/wiki/Susana_de_Albania
-Calle Dina;Dina;Dina;;2;Female;https://es.wikipedia.org/wiki/Dina_(cantante)
 Calle Rufino;Rufino;Rufino;;-2;Male
 Calle Flores;Flores;Flores;;2;Female;https://es.wikipedia.org/wiki/Florestina_de_M%C3%B3naco
 Calle Reyes;Reyes;Reyes;;2;Female;https://es.wikipedia.org/wiki/Reyes_Montseny
 Calle Guadalupe;Guadalupe;Guadalupe;;2;Female;https://es.wikipedia.org/wiki/Guadalupe_Salcedo
 Calle Isaac Valverde Huertas;Isaac ValverHuertas;Isaac;ValverHuertas;-2;Male
+Calle La Cruz;La Cruz;La;Cruz;2;Female;https://es.wikipedia.org/wiki/Ada_de_la_Cruz
 Calle La Senda;La Senda;La;Senda;2;Female;https://es.wikipedia.org/wiki/Garsenda_de_Sabran
 Calle Mónica;Mónica;Mónica;;2;Female;https://es.wikipedia.org/wiki/M%C3%B3nica_Garc%C3%ADa
+Calle San Gerardo;San Gerardo;San;Gerardo;-2;Male
+Calle San Miguel;San Miguel;San;Miguel;-2;Male
 Calle María Elena;María Elena;María;Elena;2;Female;https://es.wikipedia.org/wiki/Mar%C3%ADa_Elena_Salinas
+Calle Santa Lucía;Santa Lucía;Santa;Lucía;2;Female;https://es.wikipedia.org/wiki/Marta_Luc%C3%ADa_Ram%C3%ADrez
 Calle Providencia;Providencia;Providencia;;2;Female;https://es.wikipedia.org/wiki/Prudencia_Ayala
 Calle Santa Fe;Santa Fe;Santa;Fe;2;Female;https://es.wikipedia.org/wiki/Santa_Estela
 Calle de la Luna;Luna;Luna;;2;Female;https://es.wikipedia.org/wiki/Luna_Maya
+Calle El Sol;El Sol;El;Sol;2;Female;https://es.wikipedia.org/wiki/Isabel_Soler
 Calle Huascar;Huascar;Huascar;;-2;Male
 Calle Llanos;Llanos;Llanos;;2;Female;https://es.wikipedia.org/wiki/Amparo_Llanos
 Calle Matilda;Matilda;Matilda;;2;Female;https://es.wikipedia.org/wiki/Matilda_Chaplin_Ayrton
+Calle Divino Niño;Divino Niño;Divino;Niño;-2;Male
+Calle La Rosa;La Rosa;La;Rosa;2;Female;https://es.wikipedia.org/wiki/%C3%81ngela_Vallina
+Calle Segunda;Segunda;Segunda;;2;Female;https://es.wikipedia.org/wiki/Radegunda
+Avenida Segunda;Segunda;Segunda;;2;Female;https://es.wikipedia.org/wiki/Radegunda
+Calle Santa Cecilia;Santa Cecilia;Santa;Cecilia;2;Female;https://es.wikipedia.org/wiki/Rossana_Cecilia_Surballe
+Calle La Margarita;La Margarita;La;Margarita;2;Female;https://es.wikipedia.org/wiki/Ana_Margarita_Esper%C3%B3n_Lara
 Calle Viana do Castelo;Viana do Castelo;Viana;do;2;Female;https://es.wikipedia.org/wiki/Ana_de_Castro_Os%C3%B3rio
 Calle Andalucía;Andalucía;Andalucía;;2;Female;https://es.wikipedia.org/wiki/Ana_Luc%C3%ADa_Dom%C3%ADnguez
 Calle Granada;Granada;Granada;;2;Female;https://es.wikipedia.org/wiki/Isabel_Granada
+Calle San Juan;San Juan;San;Juan;-2;Male
 Calle Loma Linda;Loma Linda;Loma;Linda;2;Female;https://es.wikipedia.org/wiki/Rosalinda_Serfaty
 Avenida Cristóbal;Cristóbal;Cristóbal;;-2;Male
 Avenida El Ron Ron;El Ron Ron;El;Ron;-2;Male
@@ -284,10 +41,12 @@ Avenida Antonio Arroyo;Antonio Arroyo;Antonio;Arroyo;-2;Male
 Calle Primera - Simón;Primera - Simón;Primera;-;-2;Male
 Avenida Bernardo Soto;Bernardo Soto;Bernardo;Soto;-2;Male
 Avenida Juan Manuel López del Corral;Juan Manuel López Corral;Juan;Manuel;-2;Male
+Calle La Esperanza;La Esperanza;La;Esperanza;2;Female;https://es.wikipedia.org/wiki/Ana_Esperanza_Franco-Molano
 Avenida Lilian;Lilian;Lilian;;2;Female;https://es.wikipedia.org/wiki/Liliana_Hendel
 Calle Edwin;Edwin;Edwin;;-2;Male
 Calle Ulises;Ulises;Ulises;;-2;Male
 Calle General Eloy Alfaro;General Eloy Alfaro;General;Eloy;-2;Male
+Calle La Paz;La Paz;La;Paz;2;Female;https://es.wikipedia.org/wiki/Marcela_Paz
 Calle Mayra;Mayra;Mayra;;2;Female;https://es.wikipedia.org/wiki/Mayrata_O%27Wisiedo
 Avenida Bertilia;Bertilia;Bertilia;;2;Female;https://es.wikipedia.org/wiki/Bertila_de_Chelles
 Calle Sonia;Sonia;Sonia;;2;Female;https://es.wikipedia.org/wiki/Sonia_D%C3%ADaz_Corrales
@@ -320,168 +79,47 @@ Calle Grecia;Grecia;Grecia;;2;Female;https://es.wikipedia.org/wiki/Grecia_Colmen
 Calle La Haya;La Haya;La;Haya;2;Female;https://es.wikipedia.org/wiki/Hela_Ayari
 Calle Bélgica;Bélgica;Bélgica;;2;Female;https://es.wikipedia.org/wiki/B%C3%A9lgica_Castro
 Avenida Holanda;Holanda;Holanda;;2;Female;https://es.wikipedia.org/wiki/Berta_de_Holanda
+Calle Florida;Florida;Florida;;2;Female;https://es.wikipedia.org/wiki/Florida_Ciut%C4%83
 Calle El Urbano;El Urbano;El;Urbano;-2;Male
 Calle Ruta del Sol;Ruta Sol;Ruta;Sol;2;Female;https://es.wikipedia.org/wiki/Berta_Soler
 Calle Imperio Verde;Imperio Verde;Imperio;Verde;2;Female;https://es.wikipedia.org/wiki/Imperio_Argentina
+Calle San Luis;San Luis;San;Luis;-2;Male
 Calle el Urbano;el Urbano;el;Urbano;-2;Male
 Bosques de Fe;Bosques de Fe;Bosques;de;2;Female;https://es.wikipedia.org/wiki/Ana_Roque_de_Duprey
+Calle Alfaro;Alfaro;Alfaro;;-2;Male
 Calle Los Araya;Los Araya;Los;Araya;2;Female;https://es.wikipedia.org/wiki/Loreto_Araya-Ayala
 Radial Francisco J. Orlich;Radial Francisco J. Orlich;Radial;Francisco;-2;Male
 Pasaje Roma;Roma;Roma;;2;Female;https://es.wikipedia.org/wiki/Romary_Rifka
 Calle Ernesto Morera;Ernesto Morera;Ernesto;Morera;-2;Male
 Solo Ambulancias;Solo Ambulancias;Solo;Ambulancias;-2;Male
+Calle San Antonio;San Antonio;San;Antonio;-2;Male
 Calle La Candela;La Candela;La;Candela;2;Female;https://es.wikipedia.org/wiki/Pilar_Cancela_Rodr%C3%ADguez
 Calle Sacramento;Sacramento;Sacramento;;2;Female;https://es.wikipedia.org/wiki/Sacramento_Moyano
-Res San Remo;Res San Remo;Res;San;-2;Male
-La Carolina;La Carolina;La;Carolina;2;Female;https://es.wikipedia.org/wiki/Ana_Carolina
-Urbanización Doña Flora;Urbanización Doña Flora;Urbanización;Doña;2;Female;https://es.wikipedia.org/wiki/Purificaci%C3%B3n_Ortiz
-Avenida Grecia;Grecia;Grecia;;2;Female;https://es.wikipedia.org/wiki/Grecia_Colmenares
-Avenida Italia;Italia;Italia;;2;Female;https://es.wikipedia.org/wiki/Italia_Vitaliani
-Avenida Francia;Francia;Francia;;2;Female;https://es.wikipedia.org/wiki/Francia_M%C3%A1rquez
-Avenida Polonia;Polonia;Polonia;;2;Female;https://es.wikipedia.org/wiki/Apolonia_Lapiedra
-Acceso Privado a Punta Leona;Acceso Privado a Punta Leona;Acceso;Privado;2;Female;https://es.wikipedia.org/wiki/Romilda_Pantaleoni
-Calle Celestino;Celestino;Celestino;;-2;Male
-Avenida Paseo de Las Flores;Avenida  Las Flores;Avenida;;2;Female;https://es.wikipedia.org/wiki/Macedonia_Blas_Flores
-Avenida Las Huertas;Las Huertas;Las;Huertas;2;Female;https://es.wikipedia.org/wiki/M%C3%A1vila_Huertas
-Calle La Joaquina;La Joaquina;La;Joaquina;2;Female;https://es.wikipedia.org/wiki/Mar%C3%ADa_Joaquina_de_Viera_y_Clavijo
-Calle de La Rosa;La Rosa;La;Rosa;2;Female;https://es.wikipedia.org/wiki/%C3%81ngela_Vallina
-Calle Quintanar de la Sierra;Quintanar Sierra;Quintanar;Sierra;2;Female;https://es.wikipedia.org/wiki/Bianca_Sierra
-Calle Valerio;Valerio;Valerio;;-2;Male
-Calle La Gitana;La Gitana;La;Gitana;2;Female;https://es.wikipedia.org/wiki/Aniya_la_Gitana
-Calle La Reina;La Reina;La;Reina;2;Female;https://es.wikipedia.org/wiki/La_reina_del_albur
-Calle Santa Paula;Santa Paula;Santa;Paula;2;Female;https://es.wikipedia.org/wiki/Ana_Paula_Oliveira
-Calle Cruces;Cruces;Cruces;;2;Female;https://es.wikipedia.org/wiki/L%C3%ADa_Crucet
-Calle Jerusalén;Jerusalén;Jerusalén;;2;Female;https://es.wikipedia.org/wiki/Sibila_de_Jerusal%C3%A9n
-Calle Tierra Blanca;Tierra Blanca;Tierra;Blanca;2;Female;https://es.wikipedia.org/wiki/Javiera_Blanco
-Avenida Joaquín González;Joaquín González;Joaquín;González;-2;Male
-Avenida Amelia;Amelia;Amelia;;2;Female;https://es.wikipedia.org/wiki/Amelia_Warner
-Calle Don Ricardo;Don Ricardo;Don;Ricardo;-2;Male
-Calle Piedades;Piedades;Piedades;;2;Female;https://es.wikipedia.org/wiki/Piedad_Solans_Blanco
-Calle Rincón de Ricardo;Rincón Ricardo;Rincón;Ricardo;-2;Male
-Puente Rincón de Ricardo;Puente  Ricardo;Puente;;-2;Male
-Calle Fátima;Fátima;Fátima;;2;Female;https://es.wikipedia.org/wiki/F%C3%A1tima_Sultan
-Calle Monte Carmelo;Monte Carmelo;Monte;Carmelo;2;Female;https://es.wikipedia.org/wiki/Montse_Castell%C3%A0
-Calle Ignacio Bolaños;Ignacio Bolaños;Ignacio;Bolaños;-2;Male
-Avenida Jesús Jiménez;Jesús Jiménez;Jesús;Jiménez;-2;Male
-Calle Pedro León;Pedro León;Pedro;León;-2;Male
-Calle Don Pedro;Don Pedro;Don;Pedro;-2;Male
-Calle Sara Soto;Sara Soto;Sara;Soto;2;Female;https://es.wikipedia.org/wiki/Sara_Sotillo
-Calle Alfonso;Alfonso;Alfonso;;-2;Male
-Calle Vinicio Zamora;Vinicio Zamora;Vinicio;Zamora;-2;Male
-Calle Fernando Ramírez;Fernando Ramírez;Fernando;Ramírez;-2;Male
-Calle Rómulo;Rómulo;Rómulo;;-2;Male
-Calle Angélica;Angélica;Angélica;;2;Female;https://es.wikipedia.org/wiki/Ang%C3%A9lica_(presentadora)
-Calle Angélica Norte;Angélica Norte;Angélica;Norte;2;Female;https://es.wikipedia.org/wiki/Ang%C3%A9lica_Morales_von_Sauer
-Calle Higinia;Higinia;Higinia;;2;Female;https://es.wikipedia.org/wiki/Higinia_Bartolom%C3%A9_del_%C3%81lamo
-Calle El Socorro;El Socorro;El;Socorro;2;Female;https://es.wikipedia.org/wiki/Mar%C3%ADa_del_Socorro_Alonso
-Calle Breña Mora;Breña Mora;Breña;Mora;2;Female;https://es.wikipedia.org/wiki/Ana_Teresa_Morales
-Calle Víctor Carballo;Víctor Carballo;Víctor;Carballo;-2;Male
-Calle Agustín Valerio;Agustín Valerio;Agustín;Valerio;-2;Male
-Calle Cristo Rey;Cristo Rey;Cristo;Rey;-2;Male
-Calle Rosalinda;Rosalinda;Rosalinda;;2;Female;https://es.wikipedia.org/wiki/Rosalinda_L%C3%B3pez_Hern%C3%A1ndez
-Calle Montaña Azul;Montaña Azul;Montaña;Azul;2;Female;https://es.wikipedia.org/wiki/Anna_Monta%C3%B1ana
-Calle Lázaro;Lázaro;Lázaro;;-2;Male
-Calle Salomón Hernández;Salomón Hernández;Salomón;Hernández;-2;Male
-Calle Navidad;Navidad;Navidad;;2;Female;https://es.wikipedia.org/wiki/Patricia_Navidad
-Avenida La Gloria;La Gloria;La;Gloria;2;Female;https://es.wikipedia.org/wiki/Mar%C3%ADa_de_la_Gloria_de_Orleans-Braganza
-Calle Venecia;Venecia;Venecia;;2;Female;https://es.wikipedia.org/wiki/Venetia_Phair
-Avenida Verona;Verona;Verona;;2;Female;https://es.wikipedia.org/wiki/Verona_Pooth
-Boulevard Victoria;Victoria;Victoria;;2;Female;https://es.wikipedia.org/wiki/Victoria_(m%C3%A1rtir)
-Calle Nazareth;Nazareth;Nazareth;;2;Female;https://es.wikipedia.org/wiki/Nazareth_Cascante
-Calle Lincoln;Lincoln;Lincoln;;-2;Male
-Calle Gonzalo Delgado;Gonzalo Delgado;Gonzalo;Delgado;-2;Male
-Calle Casilda;Casilda;Casilda;;2;Female;https://es.wikipedia.org/wiki/Casilda_de_Silva_y_Fern%C3%A1ndez_de_Henestrosa
-Calle Dulce Nombre;Dulce Nombre;Dulce;Nombre;2;Female;https://es.wikipedia.org/wiki/Dulce_Mar%C3%ADa_Gonz%C3%A1lez
-Calle Jesús;Jesús;Jesús;;-2;Male
-Calle Montserrat;Montserrat;Montserrat;;2;Female;https://es.wikipedia.org/wiki/Montserrat_Abell%C3%B3
-Calle Violeta;Violeta;Violeta;;2;Female;https://es.wikipedia.org/wiki/Violeta_Friedman
-Calle Los Marines;Los Marines;Los;Marines;2;Female;https://es.wikipedia.org/wiki/Tecla_Marinescu
-Calle Luis Méndez;Luis Méndez;Luis;Méndez;-2;Male
-Calle Dennis Jiménez;Dennis Jiménez;Dennis;Jiménez;2;Female;https://es.wikipedia.org/wiki/Connie_Jim%C3%A9nez
-Calle San Carlos de Río Balsar;Calle San Carlos  Balsar;Calle;San;-2;Male
-Calle Everardo Cortés;Everardo Cortés;Everardo;Cortés;-2;Male
-Calle Bella Vista;Bella Vista;Bella;Vista;2;Female;https://es.wikipedia.org/wiki/Bella_Starace_Sainati
-Calle Bolívar Guerrero;Bolívar Guerrero;Bolívar;Guerrero;-2;Male
-Calle Vieja Punta Leona;Vieja Punta Leona;Vieja;Punta;2;Female;https://es.wikipedia.org/wiki/Romilda_Pantaleoni
-Avenida Pastor Díaz;Pastor Díaz;Pastor;Díaz;-2;Male
-Calle Marvin;Marvin;Marvin;;-2;Male
-Condominio San Agustín;Condominio San Agustín;Condominio;San;-2;Male
-Condominio Don Paco;Condominio Don Paco;Condominio;Don;-2;Male
-Condominio Don Roberto;Condominio Don Roberto;Condominio;Don;-2;Male
-Maxi Palí Jacó;Maxi Palí Jacó;Maxi;Palí;2;Female;https://es.wikipedia.org/wiki/Mari_Paz_Sayago
-Calle Lourdes Cuadra;Lourdes Cuadra;Lourdes;Cuadra;2;Female;https://es.wikipedia.org/wiki/Lourdes_Casanova
-Calle Los Prado;Los Prado;Los;Prado;2;Female;https://es.wikipedia.org/wiki/Lilia_Prado
-Calle Baudilio Fernández;Baudilio Fernández;Baudilio;Fernández;-2;Male
-Calle La Trinidad;La Trinidad;La;Trinidad;2;Female;https://es.wikipedia.org/wiki/Zelina_Vega
-Calle Rafael Bonilla;Rafael Bonilla;Rafael;Bonilla;-2;Male
-Calle Montes de Oro;Montes Oro;Montes;Oro;2;Female;https://es.wikiquote.org/wiki/Maria_Montessori
-Cabinas Antonio;Cabinas Antonio;Cabinas;Antonio;-2;Male
-Bahía Encantada;Bahía Encantada;Bahía;Encantada;2;Female;https://es.wikipedia.org/wiki/Mar%C3%ADa_Encarnaci%C3%B3n_Roca_Tr%C3%ADas
-Jaco Princess;Jaco Princess;Jaco;Princess;2;Female;https://es.wikipedia.org/wiki/Leonor_de_Orleans-Braganza
-Boulevard Jacó Princess;Jacó Princess;Jacó;Princess;2;Female;https://es.wikipedia.org/wiki/Leonor_de_Orleans-Braganza
-Calle Anita;Anita;Anita;;2;Female;https://es.wikipedia.org/wiki/Anita_Desai
-Calle Tobías;Tobías;Tobías;;-2;Male
-Calle Jacó Sol;Jacó Sol;Jacó;Sol;2;Female;https://es.wikipedia.org/wiki/Jane_Yolen
-Calle Mar de Luz;Mar Luz;Mar;Luz;2;Female;https://es.wikipedia.org/wiki/Mariluz_Berm%C3%BAdez
-Calle América;América;América;;2;Female;https://es.wikipedia.org/wiki/Am%C3%A9rica_Arias
-Calle Remy;Remy;Remy;;-2;Male
-Calle Alice;Alice;Alice;;2;Female;https://es.wikipedia.org/wiki/Alice_(cantante)
-Calle Sol de Oro;Sol Oro;Sol;Oro;2;Female;https://es.wikipedia.org/wiki/Sol_Rodr%C3%ADguez
-Avenida Amapola;Amapola;Amapola;;2;Female;https://es.wikipedia.org/wiki/Amapola_Cabase
-Paloma Blanca;Paloma Blanca;Paloma;Blanca;2;Female;https://es.wikipedia.org/wiki/Paloma_Bernardi
-Calle La Hilda;La Hilda;La;Hilda;2;Female;https://es.wikipedia.org/wiki/Clara_Hilda_Ramos
-Calle Lirios;Lirios;Lirios;;2;Female;https://es.wikipedia.org/wiki/Liris_Sol_Vel%C3%A1squez
-Calle La Valeria;La Valeria;La;Valeria;2;Female;https://es.wikipedia.org/wiki/Ana_Valeria_(Ana%C3%ADs)
-Calle Carlos David;Carlos David;Carlos;David;-2;Male
-Calle Belén;Belén;Belén;;2;Female;https://es.wikipedia.org/wiki/Bel%C3%A9n_Hoyo
-Calle Ramiro;Ramiro;Ramiro;;-2;Male
-Calle CEN Barrio Los Angeles;CEN Barrio Los Angeles;CEN;Barrio;2;Female;https://es.wikipedia.org/wiki/Victoria_de_los_%C3%81ngeles
-Calle Kiana;Kiana;Kiana;;2;Female;https://es.wikipedia.org/wiki/Kiana_Tom
-Calle Caballito de Mar;Caballito Mar;Caballito;Mar;2;Female;https://es.wikipedia.org/wiki/Caramelito_Carrizo
-Calle Rocas de Amancio;Rocas Amancio;Rocas;Amancio;-2;Male
-Calle Parque Marino;Parque Marino;Parque;Marino;-2;Male
-Calle Villas del Sol;Villas Sol;Villas;Sol;2;Female;https://es.wikipedia.org/wiki/Maravillas_Lamberto
-Calle Bahía Linda;Bahía Linda;Bahía;Linda;2;Female;https://es.wikipedia.org/wiki/Barbara_Lindquist
-Calle Antonio Arias;Antonio Arias;Antonio;Arias;-2;Male
-Calle Miguel Mesén;Miguel Mesén;Miguel;Mesén;-2;Male
-Calle Playa Bahía;Playa Bahía;Playa;Bahía;2;Female;https://es.wikipedia.org/wiki/Petya_Barakova
-Calle Bahía Ballena;Bahía Ballena;Bahía;Ballena;2;Female;https://es.wikipedia.org/wiki/Anah%C3%AD_Ballent
-Calle García;García;García;;-2;Male
-Calle Santo Domingo;Santo Domingo;Santo;Domingo;-2;Male
-Calle Moreno;Moreno;Moreno;;-2;Male
-Calle Mar y Selva;Mar y Selva;Mar;y;2;Female;https://es.wikipedia.org/wiki/Marta_Selva
-Calle Zona Franca Saret;Zona Franca Saret;Zona;Franca;2;Female;https://es.wikipedia.org/wiki/Zoja_Grancharova
-Calle Lomas de Pan de Azúcar;Lomas Pan de Azúcar;Lomas;Pan;-2;Male
-Calle Cerro La Mina;Cerro La Mina;Cerro;La;2;Female;https://es.wikipedia.org/wiki/Noula_Mina
-Calle El Castillo;El Castillo;El;Castillo;2;Female;https://es.wikipedia.org/wiki/Lupe_del_Castillo
-Calle Milo;Milo;Milo;;-2;Male
-Calle Constancia;Constancia;Constancia;;2;Female;https://es.wikipedia.org/wiki/Constancia_Mangue
-Radial Arnoldo Kopper Vega;Radial Arnoldo Kopper Vega;Radial;Arnoldo;-2;Male
-Puente Rafael Yglesias Castro;Rafael Yglesias Castro;Rafael;Yglesias;-2;Male
-Calle Abel Rodríguez;Abel Rodríguez;Abel;Rodríguez;-2;Male
-Calle Maurilio Ramos;Maurilio Ramos;Maurilio;Ramos;-2;Male
-Avenida Vista de Mar;Vista Mar;Vista;Mar;2;Female;https://es.wikipedia.org/wiki/Christa_Margot_Frohlich
-Avenida Buenos Aires;Buenos Aires;Buenos;Aires;-2;Male
-Calle Tura;Tura;Tura;;2;Female;https://es.wikipedia.org/wiki/Tura_Satana
-Avenida Orquídea;Orquídea;Orquídea;;2;Female;https://es.wikipedia.org/wiki/Orquesta_Juventud_Percusionista_de_Catalu%C3%B1a
+Radial San Antonio;Radial San Antonio;Radial;San;-2;Male
+Calle Florencia;Florencia;Florencia;;2;Female;https://es.wikipedia.org/wiki/Florencia_Canale
 Calle La Paula;La Paula;La;Paula;2;Female;https://es.wikipedia.org/wiki/Ana_Paula_Oliveira
 Calle Julieta;Julieta;Julieta;;2;Female;https://es.wikipedia.org/wiki/Julieta_Jankunas
 Avenida Rosario;Rosario;Rosario;;2;Female;https://es.wikipedia.org/wiki/Rosario_Flores
 Calle María Isabel;María Isabel;María;Isabel;2;Female;https://es.wikipedia.org/wiki/Isabella_Castillo
 Calle Fabio Molina;Fabio Molina;Fabio;Molina;-2;Male
 Calle Benjamín Solórzano;Benjamín Solórzano;Benjamín;Solórzano;-2;Male
+Calle Jerusalén;Jerusalén;Jerusalén;;2;Female;https://es.wikipedia.org/wiki/Sibila_de_Jerusal%C3%A9n
+Calle Pérez;Pérez;Pérez;;-2;Male
 Calle La Claudia;La Claudia;La;Claudia;2;Female;https://es.wikipedia.org/wiki/Ana_Claudia_de_Le%C3%B3n
 Calle Sophia;Sophia;Sophia;;2;Female;https://es.wikipedia.org/wiki/Sophia_Myles
 Calle Betania;Betania;Betania;;2;Female;https://es.wikipedia.org/wiki/Mar%C3%ADa_de_Betania
 Calle La Paulina;La Paulina;La;Paulina;2;Female;https://es.wikipedia.org/wiki/Lolia_Paulina
 Calle Claudia;Claudia;Claudia;;2;Female;https://es.wikipedia.org/wiki/Claudia_Miranda
+Calle Salas;Salas;Salas;;2;Female;https://es.wikipedia.org/wiki/Ada_Salas
 Calle Araya;Araya;Araya;;2;Female;https://es.wikipedia.org/wiki/Ray%C3%A9n_Araya
 Avenida Asunción;Asunción;Asunción;;2;Female;https://es.wikipedia.org/wiki/Asunci%C3%B3n_Correa_Calder%C3%B3n
 Avenida Santiago;Santiago;Santiago;;-2;Male
 Avenida Alexa;Alexa;Alexa;;2;Female;https://es.wikipedia.org/wiki/Alexandra_Cadan%C8%9Bu
 Avenida Maravilla;Maravilla;Maravilla;;2;Female;https://es.wikiquote.org/wiki/Maravillas_de_Jes%C3%BAs
+Calle Santa Marta;Santa Marta;Santa;Marta;2;Female;https://es.wikipedia.org/wiki/Cara_Santa_Maria
 Avenida Atocha;Atocha;Atocha;;2;Female;https://es.wikipedia.org/wiki/Anocha_Suwichakornpong
 Calle La Soledad;La Soledad;La;Soledad;2;Female;https://es.wikipedia.org/wiki/Mar%C3%ADa_Soledad_Barr%C3%ADa
+Calle La Trinidad;La Trinidad;La;Trinidad;2;Female;https://es.wikipedia.org/wiki/Zelina_Vega
 Calle Joaquín Arias;Joaquín Arias;Joaquín;Arias;-2;Male
 Puente Francisco J. Orlich;Francisco J. Orlich;Francisco;J.;-2;Male
 Calle Rosa Blanca;Rosa Blanca;Rosa;Blanca;2;Female;https://es.wikipedia.org/wiki/Teresa_Blanco_Pi%C3%B1al
@@ -493,6 +131,7 @@ Calle Nardo;Nardo;Nardo;;-2;Male
 Calle La Amada;La Amada;La;Amada;2;Female;https://es.wikipedia.org/wiki/Rosa_Amada_Villegas
 Calle Asdrúbal Víquez;Asdrúbal Víquez;Asdrúbal;Víquez;-2;Male
 Calle Los Mora;Los Mora;Los;Mora;2;Female;https://es.wikipedia.org/wiki/%C3%81ngeles_Mora
+Calle Dulce Nombre;Dulce Nombre;Dulce;Nombre;2;Female;https://es.wikipedia.org/wiki/Dulce_Mar%C3%ADa_Gonz%C3%A1lez
 Calle Marcos Víquez;Marcos Víquez;Marcos;Víquez;-2;Male
 Calle San Roque;San Roque;San;Roque;-2;Male
 Calle San Lorenzo;San Lorenzo;San;Lorenzo;-2;Male
@@ -501,6 +140,7 @@ Calle Jesús Montero;Jesús Montero;Jesús;Montero;-2;Male
 Calle Vega;Vega;Vega;;2;Female;https://es.wikiquote.org/wiki/Vega_(cantante)
 Calle Testigo de Jehova;Testigo Jehova;Testigo;Jehova;-2;Male
 Camino Del Sol;Del Sol;Del;Sol;2;Female;https://es.wikipedia.org/wiki/Luz_del_Sol_Neisa
+Calle Monte Carmelo;Monte Carmelo;Monte;Carmelo;2;Female;https://es.wikipedia.org/wiki/Montse_Castell%C3%A0
 Calle Juan León;Juan León;Juan;León;-2;Male
 Calle Don Lorenzo;Don Lorenzo;Don;Lorenzo;-2;Male
 Calle Camino Al Cielo;Camino Al Cielo;Camino;Al;2;Female;https://es.wikinews.org/wiki/Categor%C3%ADa:Camila_Colombo
@@ -511,6 +151,7 @@ Calle Altos de San Pablo;Altos San Pablo;Altos;San;-2;Male
 Calle Villa Barva;Villa Barva;Villa;Barva;2;Female;https://es.wikipedia.org/wiki/Vilma_Bardauskiene
 Calle El Ibis;El Ibis;El;Ibis;2;Female;https://es.wikiquote.org/wiki/Isabel_Bishop
 Avenida Cleto González Víquez;Cleto González Víquez;Cleto;González;-2;Male
+Calle Santiago Baudrit;Santiago Baudrit;Santiago;Baudrit;-2;Male
 Calle La Matilde;La Matilde;La;Matilde;2;Female;https://es.wikipedia.org/wiki/Elsa_Matilde_Zardini
 Calle UNA;UNA;UNA;;2;Female;https://es.wikipedia.org/wiki/Una_Foden
 Avenida Alfredo González Flores;Alfredo González Flores;Alfredo;González;-2;Male
@@ -519,6 +160,7 @@ Calle Jericó;Jericó;Jericó;;-2;Male
 Arboleda Feliz  Der;Arboleda Feliz  Der;Arboleda;Feliz;-2;Male
 Arboleda Feliz Izq;Arboleda Feliz Izq;Arboleda;Feliz;-2;Male
 Calle Wilson Víquez;Wilson Víquez;Wilson;Víquez;-2;Male
+Calle Santa Elena;Santa Elena;Santa;Elena;2;Female;https://es.wikipedia.org/wiki/Ana_Elena_Garuz
 Calle Vidal;Vidal;Vidal;;-2;Male
 Calle del Sol;Sol;Sol;;2;Female;https://es.wikipedia.org/wiki/Soledad_Sevilla
 Avenida El Espino;El Espino;El;Espino;2;Female;https://es.wikipedia.org/wiki/Rosabel_Espinosa
@@ -528,6 +170,8 @@ Calle Venus;Venus;Venus;;2;Female;https://es.wikipedia.org/wiki/Venus_Palermo
 Calle Santa Catalina;Santa Catalina;Santa;Catalina;2;Female;https://es.wikipedia.org/wiki/Ana_Catalina_Gonzaga_de_Mantua
 Calle Monte Verde;Monte Verde;Monte;Verde;2;Female;https://es.wikipedia.org/wiki/Lotte_Verbeek
 Avenida Victoria;Victoria;Victoria;;2;Female;https://es.wikipedia.org/wiki/Victoria_(m%C3%A1rtir)
+Calle La Virgen;La Virgen;La;Virgen;2;Female;https://es.wikipedia.org/wiki/Isabel_de_Hungr%C3%ADa_la_virgen
+Calle El Progreso;El Progreso;El;Progreso;-2;Male
 Calle Las Flores;Las Flores;Las;Flores;2;Female;https://es.wikipedia.org/wiki/Lola_Flores
 Calle Jara;Jara;Jara;;2;Female;https://es.wikipedia.org/wiki/Jaramar_Soto
 Calle La Simona;La Simona;La;Simona;2;Female;https://es.wikipedia.org/wiki/Ana_Simonovi%C4%87
@@ -539,39 +183,262 @@ Calle La Aurora;La Aurora;La;Aurora;2;Female;https://es.wikipedia.org/wiki/Pepa_
 Calle del Sol Este;Sol Este;Sol;Este;2;Female;https://es.wikipedia.org/wiki/Sol_Estevanez
 Calle Portal del Valle;Portal Valle;Portal;Valle;2;Female;https://es.wikipedia.org/wiki/Sara_Valle_Dessens
 Residencial Casa Blanca;Residencial  Blanca;Residencial;;2;Female;https://es.wikipedia.org/wiki/Lastenia_Blanco
-Avenida William H. Taft;William H. Taft;William;H.;-2;Male
+Calle San Francisco;San Francisco;San;Francisco;-2;Male
 Alameda Manuel María Gutiérrez;Alameda Manuel María Gutiérrez;Alameda;Manuel;-2;Male
+Avenida Luis R. Flores;Luis R. Flores;Luis;R.;-2;Male
 Alameda Wenceslao Argüello;Alameda Wenceslao Argüello;Alameda;Wenceslao;-2;Male
+Avenida Rafael Moya M.;Rafael Moya M.;Rafael;Moya;-2;Male
+Avenida William H. Taft;William H. Taft;William;H.;-2;Male
+Avenida Domingo F. Sarmiento;Domingo F. Sarmiento;Domingo;F.;-2;Male
 Calle Manuel Benavides;Manuel Benavides;Manuel;Benavides;-2;Male
 Calle Franklin D. Roosevelt;Franklin D. Roosevelt;Franklin;D.;-2;Male
 Calle Rubén Darío;Rubén Darío;Rubén;Darío;-2;Male
-Calle Tranquilino Sáenz Flores;Tranquilino Sáenz Flores;Tranquilino;Sáenz;2;Female;https://es.wikipedia.org/wiki/Dione_Anguiano_Flores
-Avenida Rafael Moya M.;Rafael Moya M.;Rafael;Moya;-2;Male
-Avenida Luis R. Flores;Luis R. Flores;Luis;R.;-2;Male
-Calle Julián Volio;Julián Volio;Julián;Volio;-2;Male
 Calle Omar Dengo Guerrero;Omar Dengo Guerrero;Omar;Dengo;-2;Male
+Calle Tranquilino Sáenz Flores;Tranquilino Sáenz Flores;Tranquilino;Sáenz;2;Female;https://es.wikipedia.org/wiki/Dione_Anguiano_Flores
+Avenida Amando Céspedes Marín;Amando Céspedes Marín;Amando;Céspedes;-2;Male
+Calle Julián Volio;Julián Volio;Julián;Volio;-2;Male
 Calle Manuel Benavides R.;Manuel Benavides R.;Manuel;Benavides;-2;Male
 Calle Pedro Henríquez Ureña;Pedro Henríquez Ureña;Pedro;Henríquez;-2;Male
+Calle Napoleón Quesada;Napoleón Quesada;Napoleón;Quesada;-2;Male
 Calle Don Tito;Don Tito;Don;Tito;-2;Male
 Calle Abelina;Abelina;Abelina;;2;Female;https://es.wikipedia.org/wiki/Aleksandra_Zabelina
-Calle Napoleón Quesada;Napoleón Quesada;Napoleón;Quesada;-2;Male
 Avenida Santa Elena;Santa Elena;Santa;Elena;2;Female;https://es.wikipedia.org/wiki/Ana_Elena_Garuz
+Avenida Paseo de Las Flores;Avenida  Las Flores;Avenida;;2;Female;https://es.wikipedia.org/wiki/Macedonia_Blas_Flores
+Avenida Las Huertas;Las Huertas;Las;Huertas;2;Female;https://es.wikipedia.org/wiki/M%C3%A1vila_Huertas
 Avenida El Sol;El Sol;El;Sol;2;Female;https://es.wikipedia.org/wiki/Isabel_Soler
-Calle Amelia Granados;Amelia Granados;Amelia;Granados;2;Female;https://es.wikipedia.org/wiki/Carolina_Granados_Mendoza
-Calle Chon Mora;Chon Mora;Chon;Mora;2;Female;https://es.wikipedia.org/wiki/Cuckoo_Moray
-Calle Sinaí;Sinaí;Sinaí;;2;Female;https://es.wikipedia.org/wiki/Sina_Frei
-Calle Don Carmen;Don Carmen;Don;Carmen;2;Female;https://es.wikipedia.org/wiki/Carmen_Rendiles_Mart%C3%ADnez
-Calle Rocío;Rocío;Rocío;;2;Female;https://es.wikipedia.org/wiki/Roc%C3%ADo_Primo_de_Rivera_Oriol
-Calle La Julieta;La Julieta;La;Julieta;2;Female;https://es.wikipedia.org/wiki/Rosa_Julieta_Monta%C3%B1o_Salvatierra
-Calle Holanda;Holanda;Holanda;;2;Female;https://es.wikipedia.org/wiki/Berta_de_Holanda
-Calle Villa Champagne;Villa Champagne;Villa;Champagne;2;Female;https://es.wikipedia.org/wiki/Angela_Campanella
-Grupo Eulalia;Grupo Eulalia;Grupo;Eulalia;2;Female;https://es.wikipedia.org/wiki/Eulalia_Ruiz_de_Clavijo
-Tritec/SkyTrace Pacifico;Tritec/ Pacifico;Tritec/;Pacifico;-2;Male
-Acceso Área Social;Acceso Área Social;Acceso;Área;2;Female;https://es.wikipedia.org/wiki/L%C3%ADa_Correa_Morales
-Calle Privada Playa Blanca;Privada Playa Blanca;Privada;Playa;2;Female;https://es.wikipedia.org/wiki/Iridia_Salazar_Blanco
-Playa Blanca beach access;Playa Blanca beach access;Playa;Blanca;2;Female;https://es.wikipedia.org/wiki/Blanca_Chancoso
-Marina Punta Leona;Marina Punta Leona;Marina;Punta;2;Female;https://es.wikipedia.org/wiki/Maria_Anna_Donati
-Calle La Marina;La Marina;La;Marina;2;Female;https://es.wikipedia.org/wiki/Mila_Marinova
-Altos de Montserrat;Altos de Montserrat;Altos;de;2;Female;https://es.wikipedia.org/wiki/Mar%C3%ADa_de_Montserrat
-Boulevard Jan Dankers;Jan Dankers;Jan;Dankers;-2;Male
-Residencial La Flor;La Flor;La;Flor;2;Female;https://es.wikipedia.org/wiki/Lola_Flores
+Calle La Inmaculada;La Inmaculada;La;Inmaculada;2;Female;https://es.wikipedia.org/wiki/Inmaculada_Herrera_Calvet
+Calle La Gitana;La Gitana;La;Gitana;2;Female;https://es.wikipedia.org/wiki/Aniya_la_Gitana
+Avenida Joaquín González;Joaquín González;Joaquín;González;-2;Male
+Calle San Martín;San Martín;San;Martín;-2;Male
+Calle La Joaquina;La Joaquina;La;Joaquina;2;Female;https://es.wikipedia.org/wiki/Mar%C3%ADa_Joaquina_de_Viera_y_Clavijo
+Calle de La Rosa;La Rosa;La;Rosa;2;Female;https://es.wikipedia.org/wiki/%C3%81ngela_Vallina
+Calle Quintanar de la Sierra;Quintanar Sierra;Quintanar;Sierra;2;Female;https://es.wikipedia.org/wiki/Bianca_Sierra
+Calle Valerio;Valerio;Valerio;;-2;Male
+Calle La Reina;La Reina;La;Reina;2;Female;https://es.wikipedia.org/wiki/La_reina_del_albur
+Calle Mora;Mora;Mora;;2;Female;https://es.wikipedia.org/wiki/Moran_Samuel
+Calle Santa Paula;Santa Paula;Santa;Paula;2;Female;https://es.wikipedia.org/wiki/Ana_Paula_Oliveira
+Calle Cruces;Cruces;Cruces;;2;Female;https://es.wikipedia.org/wiki/L%C3%ADa_Crucet
+Calle Tierra Blanca;Tierra Blanca;Tierra;Blanca;2;Female;https://es.wikipedia.org/wiki/Javiera_Blanco
+Avenida Amelia;Amelia;Amelia;;2;Female;https://es.wikipedia.org/wiki/Amelia_Warner
+Calle Don Ricardo;Don Ricardo;Don;Ricardo;-2;Male
+Calle Piedades;Piedades;Piedades;;2;Female;https://es.wikipedia.org/wiki/Piedad_Solans_Blanco
+Calle San José;San José;San;José;-2;Male
+Calle Rincón de Ricardo;Rincón Ricardo;Rincón;Ricardo;-2;Male
+Calle Félix A. Montero;Félix A. Montero;Félix;A.;-2;Male
+Calle Fátima;Fátima;Fátima;;2;Female;https://es.wikipedia.org/wiki/F%C3%A1tima_Sultan
+Avenida Cristóbal Colón;Cristóbal Colón;Cristóbal;Colón;-2;Male
+Calle Ignacio Bolaños;Ignacio Bolaños;Ignacio;Bolaños;-2;Male
+Calle Ramón Rodríguez;Ramón Rodríguez;Ramón;Rodríguez;-2;Male
+Avenida Jesús Jiménez;Jesús Jiménez;Jesús;Jiménez;-2;Male
+Avenida Gaspar Chacón;Gaspar Chacón;Gaspar;Chacón;-2;Male
+Calle Pedro León;Pedro León;Pedro;León;-2;Male
+Calle Don Pedro;Don Pedro;Don;Pedro;-2;Male
+Calle Sara Soto;Sara Soto;Sara;Soto;2;Female;https://es.wikipedia.org/wiki/Sara_Sotillo
+Calle Alfonso;Alfonso;Alfonso;;-2;Male
+Calle Ronda;Ronda;Ronda;;2;Female;https://es.wikipedia.org/wiki/Ronda_Rousey
+Calle Vinicio Zamora;Vinicio Zamora;Vinicio;Zamora;-2;Male
+Calle Fernando Ramírez;Fernando Ramírez;Fernando;Ramírez;-2;Male
+Calle Rómulo;Rómulo;Rómulo;;-2;Male
+Calle Angélica;Angélica;Angélica;;2;Female;https://es.wikipedia.org/wiki/Ang%C3%A9lica_(presentadora)
+Calle Angélica Norte;Angélica Norte;Angélica;Norte;2;Female;https://es.wikipedia.org/wiki/Ang%C3%A9lica_Morales_von_Sauer
+Calle Higinia;Higinia;Higinia;;2;Female;https://es.wikipedia.org/wiki/Higinia_Bartolom%C3%A9_del_%C3%81lamo
+Calle El Socorro;El Socorro;El;Socorro;2;Female;https://es.wikipedia.org/wiki/Mar%C3%ADa_del_Socorro_Alonso
+Calle Breña Mora;Breña Mora;Breña;Mora;2;Female;https://es.wikipedia.org/wiki/Ana_Teresa_Morales
+Calle Víctor Carballo;Víctor Carballo;Víctor;Carballo;-2;Male
+Calle Las Mercedes;Las Mercedes;Las;Mercedes;2;Female;https://es.wikipedia.org/wiki/Mar%C3%ADa_de_las_Mercedes_Rico_Carabias
+Calle Agustín Valerio;Agustín Valerio;Agustín;Valerio;-2;Male
+Calle Cristo Rey;Cristo Rey;Cristo;Rey;-2;Male
+Calle Rosalinda;Rosalinda;Rosalinda;;2;Female;https://es.wikipedia.org/wiki/Rosalinda_L%C3%B3pez_Hern%C3%A1ndez
+Calle Montaña Azul;Montaña Azul;Montaña;Azul;2;Female;https://es.wikipedia.org/wiki/Anna_Monta%C3%B1ana
+Calle Lázaro;Lázaro;Lázaro;;-2;Male
+Calle Rubí;Rubí;Rubí;;2;Female;https://es.wikipedia.org/wiki/Rub%C3%AD_Sandoval
+Calle Salomón Hernández;Salomón Hernández;Salomón;Hernández;-2;Male
+Calle Navidad;Navidad;Navidad;;2;Female;https://es.wikipedia.org/wiki/Patricia_Navidad
+Avenida La Gloria;La Gloria;La;Gloria;2;Female;https://es.wikipedia.org/wiki/Mar%C3%ADa_de_la_Gloria_de_Orleans-Braganza
+Calle Venecia;Venecia;Venecia;;2;Female;https://es.wikipedia.org/wiki/Venetia_Phair
+Avenida Verona;Verona;Verona;;2;Female;https://es.wikipedia.org/wiki/Verona_Pooth
+Boulevard Victoria;Victoria;Victoria;;2;Female;https://es.wikipedia.org/wiki/Victoria_(m%C3%A1rtir)
+Calle Viena;Viena;Viena;;2;Female;https://es.wikipedia.org/wiki/Viena_Ruiz
+Calle Nazareth;Nazareth;Nazareth;;2;Female;https://es.wikipedia.org/wiki/Nazareth_Cascante
+Calle Lincoln;Lincoln;Lincoln;;-2;Male
+Calle Gonzalo Delgado;Gonzalo Delgado;Gonzalo;Delgado;-2;Male
+Calle La Victoria;La Victoria;La;Victoria;2;Female;https://es.wikipedia.org/wiki/L%C3%ADa_Victoria_Borrero_Gonz%C3%A1lez
+Calle Casilda;Casilda;Casilda;;2;Female;https://es.wikipedia.org/wiki/Casilda_de_Silva_y_Fern%C3%A1ndez_de_Henestrosa
+Calle Jesús;Jesús;Jesús;;-2;Male
+Calle llanos Oeste;llanos Oeste;llanos;Oeste;2;Female;https://es.wikipedia.org/wiki/Blanca_Estela_L%C3%B3pez_P%C3%A9rez
+Calle Los Llanos;Los Llanos;Los;Llanos;2;Female;https://es.wikipedia.org/wiki/Marga_de_los_Llanos
+Calle Llanos Este;Llanos Este;Llanos;Este;2;Female;https://es.wikipedia.org/wiki/Blanca_Estela_Pav%C3%B3n
+Avenida Llanos;Llanos;Llanos;;2;Female;https://es.wikipedia.org/wiki/Amparo_Llanos
+Calle Esteban;Esteban;Esteban;;-2;Male
+Principal Natura Viva;Natura Viva;Natura;Viva;2;Female;https://es.wikipedia.org/wiki/Aura_Rivas
+Calle La Palma;La Palma;La;Palma;2;Female;https://es.wikipedia.org/wiki/Lola_Palat%C3%ADn
+Calle Cristóbal;Cristóbal;Cristóbal;;-2;Male
+Calle San Vicente;San Vicente;San;Vicente;-2;Male
+Calle Paloma;Paloma;Paloma;;2;Female;https://es.wikipedia.org/wiki/Paloma_del_Sol
+Avenida La Fraternidad;La Fraternidad;La;Fraternidad;2;Female;https://es.wikipedia.org/wiki/La_Materialista
+Calle Román;Román;Román;;-2;Male
+Calle Guillén;Guillén;Guillén;;-2;Male
+Boulevard Alcides Jiménez Rojas;Alcides Jiménez Rojas;Alcides;Jiménez;2;Female;https://es.wikipedia.org/wiki/Elisa_Jim%C3%A9nez_Armas
+Calle Francia;Francia;Francia;;2;Female;https://es.wikipedia.org/wiki/Francia_M%C3%A1rquez
+Calle Altos de San Rafael;Altos San Rafael;Altos;San;-2;Male
+Calle Nardo Rivera;Nardo Rivera;Nardo;Rivera;-2;Male
+Calle Bajo La Cruz;Bajo La Cruz;Bajo;La;2;Female;https://es.wikipedia.org/wiki/Ada_de_la_Cruz
+Radial Santa Ana;Radial Santa Ana;Radial;Santa;2;Female;https://es.wikipedia.org/wiki/Muriel_Santa_Ana
+Calle Isidro;Isidro;Isidro;;-2;Male
+Calle San Gabriel;San Gabriel;San;Gabriel;-2;Male
+Puente Alfredo González Flores;Alfredo González Flores;Alfredo;González;-2;Male
+Calle Prados del Convento;Prados Convento;Prados;Convento;2;Female;https://es.wikipedia.org/wiki/Lourdes_Centeno
+Calle Rafael Barroeta;Rafael Barroeta;Rafael;Barroeta;-2;Male
+Calle Dr. Carlos Durán;Dr. Carlos Durán;Dr.;Carlos;-2;Male
+Avenida Elena Lahmann de Rohrmoser;Elena Lahmann Rohrmoser;Elena;Lahmann;2;Female;https://es.wikipedia.org/wiki/Elena_Rom%C3%A1n_Torres
+Calle Primavera;Primavera;Primavera;;2;Female;https://es.wikipedia.org/wiki/Primavera_Izaguirre
+Calle León Cortés;León Cortés;León;Cortés;-2;Male
+Boulevard Ernesto Rohrmoser;Ernesto Rohrmoser;Ernesto;Rohrmoser;-2;Male
+Calle Alexander Von Humboldt;Alexander Von Humboldt;Alexander;Von;-2;Male
+Calle Amapola;Amapola;Amapola;;2;Female;https://es.wikipedia.org/wiki/Amapola_Cabase
+Calle Coca Cola;Coca Cola;Coca;Cola;2;Female;https://es.wikipedia.org/wiki/Rebecca_Clarke
+Avenida La Gardenia;La Gardenia;La;Gardenia;2;Female;https://es.wikipedia.org/wiki/Fidela_Gardeta
+Avenida La Orquídea;La Orquídea;La;Orquídea;2;Female;https://es.wikipedia.org/wiki/Carla_Rueda
+Puente Juan Pablo II;Juan Pablo II;Juan;Pablo;-2;Male
+Calle Delfina;Delfina;Delfina;;2;Female;https://es.wikipedia.org/wiki/Delfina_Varni
+Paseo de la Segunda República;Segunda República;Segunda;República;2;Female;https://es.wikipedia.org/wiki/Aldegunda_de_Baviera
+Calle Monte Abajo;Monte Abajo;Monte;Abajo;2;Female;https://es.wikipedia.org/wiki/Bronte_Barratt
+Calle Antigua;Antigua;Antigua;;2;Female;https://es.wikisource.org/wiki/Autor:Sor_Mar%C3%ADa_de_la_Antigua
+Calle Monte Oeste;Monte Oeste;Monte;Oeste;2;Female;https://es.wikipedia.org/wiki/Montse_Castell%C3%A0
+Calle Isabel Agüero;Isabel Agüero;Isabel;Agüero;2;Female;https://es.wikipedia.org/wiki/Isabel_Guerra
+Calle Los Castro;Los Castro;Los;Castro;-2;Male
+Calle Santa Eduviges;Santa Eduviges;Santa;Eduviges;2;Female;https://es.wikipedia.org/wiki/Mar%C3%ADa_Eduviges_de_Hesse-Darmstadt
+Calle Perú;Perú;Perú;;-2;Male
+Calle Maná;Maná;Maná;;2;Female;https://es.wikipedia.org/wiki/Mandy_Moore
+Calle Noé Marín;Noé Marín;Noé;Marín;-2;Male
+Calle La Mina;La Mina;La;Mina;2;Female;https://es.wikipedia.org/wiki/Noula_Mina
+Calle Carmen;Carmen;Carmen;;2;Female;https://es.wikipedia.org/wiki/Carmen_Rodr%C3%ADguez_(yudoca)
+Calle Samuel Piano;Samuel Piano;Samuel;Piano;-2;Male
+Calle La Catalina;La Catalina;La;Catalina;2;Female;https://es.wikipedia.org/wiki/Ana_Catalina_Constanza_Vasa
+Calle Hoja Blanca;Hoja Blanca;Hoja;Blanca;2;Female;https://es.wikipedia.org/wiki/Teodora_Blanco_N%C3%BA%C3%B1ez
+Calle Vica León;Vica León;Vica;León;2;Female;https://es.wikipedia.org/wiki/Silvia_Le%C3%B3n
+Calle Juan Santana;Juan Santana;Juan;Santana;-2;Male
+Calle Jesús León;Jesús León;Jesús;León;-2;Male
+Calle Pinar;Pinar;Pinar;;2;Female;https://es.wikipedia.org/wiki/Pinar_Budak
+Calle Santa Teresa;Santa Teresa;Santa;Teresa;2;Female;https://es.wikipedia.org/wiki/Teresa_de_Portugal,_condesa_de_Flandes
+Calle Francisco Corrales;Francisco Corrales;Francisco;Corrales;-2;Male
+Calle León;León;León;;-2;Male
+Calle Manuel Sandí;Manuel Sandí;Manuel;Sandí;-2;Male
+Puente Yolanda Oreamuno;Yolanda Oreamuno;Yolanda;Oreamuno;2;Female;https://es.wikipedia.org/wiki/Yolanda_Oreamuno
+Calle Luisa;Luisa;Luisa;;2;Female;https://es.wikipedia.org/wiki/Luisa_Futoransky
+Calle Lang;Lang;Lang;;-2;Male
+Avenida Manuel María de Peralta;Manuel María Peralta;Manuel;María;-2;Male
+Avenida Mauro Fernández;Mauro Fernández;Mauro;Fernández;-2;Male
+Calle Pío Víquez;Pío Víquez;Pío;Víquez;-2;Male
+Avenida Presidente Roosevelt;Presidente Roosevelt;Presidente;Roosevelt;-2;Male
+Calle José María Zeledón;José María Zeledón;José;María;-2;Male
+Calle Vicente Sáenz;Vicente Sáenz;Vicente;Sáenz;-2;Male
+Calle Joaquín Vargas Coto;Joaquín Vargas Coto;Joaquín;Vargas;-2;Male
+Avenida Joaquín García Monge;Joaquín García Monge;Joaquín;García;-2;Male
+Calle Otilio Ulate Blanco;Otilio Ulate Blanco;Otilio;Ulate;-2;Male
+Calle Mario Sancho;Mario Sancho;Mario;Sancho;-2;Male
+Avenida José Cecilio del Valle;José Cecilio Valle;José;Cecilio;-2;Male
+Avenida Pedro Molina;Pedro Molina;Pedro;Molina;-2;Male
+Avenida San Martín;San Martín;San;Martín;-2;Male
+Avenida Rafael Francisco Osejo;Rafael Francisco Osejo;Rafael;Francisco;-2;Male
+Calle Sor María Romero;Sor María Romero;Sor;María;2;Female;https://es.wikipedia.org/wiki/Ana_Mar%C3%ADa_Romero-Lozada
+Avenida Eladio Prado Sáenz;Eladio Prado Sáenz;Eladio;Prado;-2;Male
+Calle Ricardo Rojas Vincenzi;Ricardo Rojas Vincenzi;Ricardo;Rojas;-2;Male
+Calle Moisés Vincenzi;Moisés Vincenzi;Moisés;Vincenzi;-2;Male
+Avenida Simón Bolívar;Simón Bolívar;Simón;Bolívar;-2;Male
+Calle León Pacheco;León Pacheco;León;Pacheco;-2;Male
+Calle Constantino Láscaris;Constantino Láscaris;Constantino;Láscaris;-2;Male
+Calle Juan Santamaría;Juan Santamaría;Juan;Santamaría;-2;Male
+Calle Centro América;Centro América;Centro;América;2;Female;https://es.wikipedia.org/wiki/Carmen_Am%C3%A9rica_Fern%C3%A1ndez
+Avenida Florencio del Castillo;Florencio Castillo;Florencio;Castillo;-2;Male
+Avenida Nicolás Marín;Nicolás Marín;Nicolás;Marín;-2;Male
+Calle Tomás Guardia;Tomás Guardia;Tomás;Guardia;-2;Male
+Calle Luis Pasteur;Luis Pasteur;Luis;Pasteur;-2;Male
+Calle Enrique Echandi;Enrique Echandi;Enrique;Echandi;-2;Male
+Calle Alfredo Volio;Alfredo Volio;Alfredo;Volio;-2;Male
+Calle Juan Ramón Bonilla;Juan Ramón Bonilla;Juan;Ramón;-2;Male
+Calle Teodorico Quirós;Teodorico Quirós;Teodorico;Quirós;-2;Male
+Calle Juan Rafael Chacón;Juan Rafael Chacón;Juan;Rafael;-2;Male
+Calle Juan Rafael Mora Porras;Juan Rafael Mora Porras;Juan;Rafael;-2;Male
+Calle Jorge Vargas Gené;Jorge Vargas Gené;Jorge;Vargas;-2;Male
+Avenida Isabel La Católica;Isabel La Católica;Isabel;La;2;Female;https://es.wikipedia.org/wiki/Isabella_Cascarano
+Avenida Libertador Juan Rafael Mora Porras;Libertador Juan Rafael Mora Porras;Libertador;Juan;-2;Male
+Avenida Castro Madriz;Castro Madriz;Castro;Madriz;-2;Male
+Avenida Domingo Sarmiento;Domingo Sarmiento;Domingo;Sarmiento;-2;Male
+Avenida Monseñor Castro Jiménez;Monseñor Castro Jiménez;Monseñor;Castro;-2;Male
+Avenida Rogelio Fernández Güell;Rogelio Fernández Güell;Rogelio;Fernández;-2;Male
+Calle José María Cañas;José María Cañas;José;María;-2;Male
+Calle Monseñor Víctor M. Sanabria Martínez;Monseñor Víctor M. Sanabria Martínez;Monseñor;Víctor;-2;Male
+Calle Julio Fonseca Gutiérrez;Julio Fonseca Gutiérrez;Julio;Fonseca;-2;Male
+Avenida Manuel Argüello Mora;Manuel Argüello Mora;Manuel;Argüello;-2;Male
+Calle José Daniel Zúñiga;José Daniel Zúñiga;José;Daniel;-2;Male
+Calle Guillermo Aguilar Machado;Guillermo Aguilar Machado;Guillermo;Aguilar;-2;Male
+Calle Miguel Hidalgo y Costilla;Miguel Hidalgo y Costilla;Miguel;Hidalgo;-2;Male
+Avenida Carlos Gagini;Carlos Gagini;Carlos;Gagini;-2;Male
+Avenida Manuel de Jesús Jiménez;Manuel Jesús Jiménez;Manuel;Jesús;-2;Male
+Calle José Joaquín Vargas Calvo;José Joaquín Vargas Calvo;José;Joaquín;-2;Male
+Calle Manuel María Gutiérrez;Manuel María Gutiérrez;Manuel;María;-2;Male
+Calle Rafael Chaves;Rafael Chaves;Rafael;Chaves;-2;Male
+Calle Alejandro Monestel;Alejandro Monestel;Alejandro;Monestel;-2;Male
+Avenida Jenaro Cardona;Jenaro Cardona;Jenaro;Cardona;-2;Male
+Calle José Martí;José Martí;José;Martí;-2;Male
+Calle Dr. Ricardo Moreno Cañas;Dr. Ricardo Moreno Cañas;Dr.;Ricardo;-2;Male
+Calle Ismael Murillo;Ismael Murillo;Ismael;Murillo;-2;Male
+Calle José Campabadal;José Campabadal;José;Campabadal;-2;Male
+Avenida Libertador Juan Rafael Mora;Libertador Juan Rafael Mora;Libertador;Juan;-2;Male
+Calle Roberto Brenes Mesén;Roberto Brenes Mesén;Roberto;Brenes;-2;Male
+Calle Alberto Brenes Córdoba;Alberto Brenes Córdoba;Alberto;Brenes;-2;Male
+Calle Fray Martín de Porres;Fray Martín Porres;Fray;Martín;-2;Male
+Avenida Dr. Adolfo Carit;Dr. Adolfo Carit;Dr.;Adolfo;-2;Male
+Rotonda de San Sebastián;San Sebastián;San;Sebastián;-2;Male
+Avenida Estado de Israel;Estado Israel;Estado;Israel;-2;Male
+Calle Altamira;Altamira;Altamira;;2;Female;https://es.wikipedia.org/wiki/Lucha_Altamirano
+Calle Marcial Segura;Marcial Segura;Marcial;Segura;-2;Male
+Calle Casa Blanca;Casa Blanca;Casa;Blanca;2;Female;https://es.wikipedia.org/wiki/Claudia_Casabianca
+Calle Luna;Luna;Luna;;2;Female;https://es.wikipedia.org/wiki/Luna_Maya
+Calle La Esmeralda;La Esmeralda;La;Esmeralda;2;Female;https://es.wikipedia.org/wiki/Estela_Esmeralda_Tafolla
+Calle Ligia Méndez;Ligia Méndez;Ligia;Méndez;2;Female;https://es.wikipedia.org/wiki/Laura_M%C3%A9ndez_de_Cuenca
+Calle San Bosco;San Bosco;San;Bosco;-2;Male
+Calle San Cayetano;San Cayetano;San;Cayetano;-2;Male
+Calle San Pancracio;San Pancracio;San;Pancracio;-2;Male
+Calle Justo A. Facio;Justo A. Facio;Justo;A.;-2;Male
+Calle Francisco Soler;Francisco Soler;Francisco;Soler;-2;Male
+Avenida José María Alfaro Cooper;José María Alfaro Cooper;José;María;-2;Male
+Calle Julián Marchena;Julián Marchena;Julián;Marchena;-2;Male
+Calle Eduardo Calsamiglia;Eduardo Calsamiglia;Eduardo;Calsamiglia;-2;Male
+Avenida Anastasio Alfaro;Anastasio Alfaro;Anastasio;Alfaro;-2;Male
+Paseo Rubén Darío;Rubén Darío;Rubén;Darío;-2;Male
+Calle Ricardo Fernández Guardia;Ricardo Fernández Guardia;Ricardo;Fernández;-2;Male
+Avenida José Fabio Garnier;José Fabio Garnier;José;Fabio;-2;Male
+Calle Teodoro Quirós;Teodoro Quirós;Teodoro;Quirós;-2;Male
+Calle Rafael Ángel Troyo;Rafael Ángel Troyo;Rafael;Ángel;-2;Male
+Calle Miguel Obregón Lizano;Miguel Obregón Lizano;Miguel;Obregón;-2;Male
+Calle Alejandro Alvarado Quirós;Alejandro Alvarado Quirós;Alejandro;Alvarado;-2;Male
+Calle Alejandro Aguilar Machado;Alejandro Aguilar Machado;Alejandro;Aguilar;-2;Male
+Avenida Omar Dengo;Omar Dengo;Omar;Dengo;-2;Male
+Calle Carlos Salazar Herrera;Carlos Salazar Herrera;Carlos;Salazar;-2;Male
+Calle Rafael Cardona;Rafael Cardona;Rafael;Cardona;-2;Male
+Calle Max Jiménez;Max Jiménez;Max;Jiménez;-2;Male
+Calle Luis Felipe González;Luis Felipe González;Luis;Felipe;-2;Male
+Calle Edgar Ardón;Edgar Ardón;Edgar;Ardón;-2;Male
+Rotonda Luis Cruz Mesa;Luis Cruz Mesa;Luis;Cruz;-2;Male
+Calle Damiana;Damiana;Damiana;;2;Female;https://es.wikipedia.org/wiki/Damiana_Eugenio
+Calle La Mora;La Mora;La;Mora;2;Female;https://es.wikipedia.org/wiki/Lola_Mora
+Avenida Concordia;Concordia;Concordia;;2;Female;https://es.wikipedia.org/wiki/Concordia_Selander
+Calle Juan Félix Acuña;Juan Félix Acuña;Juan;Félix;-2;Male
+Calle La Orquídea;La Orquídea;La;Orquídea;2;Female;https://es.wikipedia.org/wiki/Carla_Rueda
+Calle Emma Gamboa;Emma Gamboa;Emma;Gamboa;2;Female;https://es.wikipedia.org/wiki/Emma_Gamboa_Alvarado
+Calle Faustinoi Montes de Oca;Faustinoi Montes Oca;Faustinoi;Montes;2;Female;https://es.wikipedia.org/wiki/Justine_Mintsa
+Calle Marín Muñoz;Marín Muñoz;Marín;Muñoz;-2;Male
+Calle La Bamba;La Bamba;La;Bamba;-2;Male
+Avenida Sierra Madre;Sierra Madre;Sierra;Madre;2;Female;https://es.wikipedia.org/wiki/Sierra_McCormick
+Calle Amador;Amador;Amador;;-2;Male
+Calle Viviana;Viviana;Viviana;;2;Female;https://es.wikipedia.org/wiki/Viviana_Scarlassa
+La Constancia;La Constancia;La;Constancia;2;Female;https://es.wikipedia.org/wiki/Paulina_Constancia
+Calle Jamaica;Jamaica;Jamaica;;2;Female;https://es.wikipedia.org/wiki/Jamaica_Kincaid
+Auto Crem Rica;Crem Rica;Crem;Rica;2;Female;https://es.wikipedia.org/wiki/Andrea_Rica_Taboada
+Calle Crisóstomo Porras;Crisóstomo Porras;Crisóstomo;Porras;-2;Male
+Calle Estéfana;Estéfana;Estéfana;;2;Female;https://es.wikipedia.org/wiki/Est%C3%A9fani_Esp%C3%ADn
+Calle Justo Hernández;Justo Hernández;Justo;Hernández;-2;Male
+Avenida Montes Urales;Montes Urales;Montes;Urales;2;Female;https://es.wikipedia.org/wiki/Montserrat_Se%C3%B1aba
+Avenida Monte Blanco;Monte Blanco;Monte;Blanco;2;Female;https://es.wikipedia.org/wiki/Sonia_Blanco
