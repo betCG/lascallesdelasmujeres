@@ -1,122 +1,39 @@
 
-Calle El Carmen
-Calle Victoria
-Calle María Mejías
-Calle María Eugenia
-Calle Concepción
-Calle Damaris
-Calle La Luisa
-Calle La Eva
-Calle Isela
-Calle Alicia
-Calle Rosalía
-Calle Milagro
-Calle Santa Lucia
-Calle La Hilda
-Calle Santa Clara
-Calle Santa Elena
-Calle Nazareth
-Calle Rosa Blanca
-Calle María Ramos
-Calle La Catalina
-Calle La Paula
-Calle Constancia
-Calle Mimi
-Calle Matilda
-Calle Santa Lucía
-Calle Mercedes
-Avenida Minerva
-Calle Guadalupe
-Calle Mónica
-Calle María Elena
-Calle Santa Fe
-Calle Santa Cecilia
-Calle La Eli
-Calle María Auxiliadora
-Avenida Lilian
-Calle Mayra
-Avenida Bertilia
-Calle Sonia
-Avenida El Carmen
-Calle Florencia
-Calle Julieta
-Avenida Rosario
-Calle María Isabel
-Calle La Claudia
-Calle Sophia
-Calle La Paulina
-Calle Claudia
-Avenida Asunción
-Avenida Alexa
-Calle Santa Marta
-Calle Miranda
-Calle Nora Villegas
-Calle La Matilde
-Calle Santa Catalina
-Avenida Victoria
-Calle Abelina
-Avenida Santa Elena
-Calle Casilda
-Calle Amelia Granados
-Calle Don Carmen
-Calle Montserrat
-Calle Rocío
-Calle La Julieta
-Camino Santa Teresita - Peralta
-Calle La Joaquina
-Calle Santa Paula
-Avenida Amelia
-Calle Piedades
-Calle Fátima
-Calle Sara Soto
-Calle Angélica
-Calle Angélica Norte
-Calle Higinia
-Calle Breña Mora
-Calle Rosalinda
-Boulevard Victoria
-Calle La Victoria
-Calle Paloma
-Radial Santa Ana
 Avenida Elena Lahmann de Rohrmoser
-Calle Delfina
-Calle Isabel Agüero
-Calle Carmen
-Calle Vica León
-Calle Pinar
-Calle Santa Teresa
 Calle Estéfana
-Calle Santa Rosa
-Calle Trinidad
-Calle Eulalia
-Calle La Marta
-Quinta de Vanessa
-Calle Santa Juana
-Calle Marisol
-Calle Margarita Rodríguez
-Calle La Mariana
-Calle Lourdes Cuadra
-Calle Luisa
-Calle Ligia Méndez
-Calle Damiana
+Calle Carmen
+Calle El Carmen
 Calle Faustinoi Montes de Oca
+Radial Santa Ana
+Calle Pinar
 Calle Viviana
-Sendero Micaela
-Calle Anita
-Calle Alice
-Calle Rafaela Madrigal
-Barrio Santa Lucia
-Calle Mercedes Valverde
-Calle Blanca Durán
-Calle Ingrid
-Calle Santa Teresita
-Santa Barbara
 Calle Dina
-Calle La Petra
-La Carolina
-Urbanización Doña Flora
-Calle La Valeria
-Calle Kiana
-Calle Jessenia Zamora
-Calle Toño Mora
-Calle la Emilia
+Calle La Catalina
+Calle Don Carmen
+Calle Guadalupe
+Calle Luisa
+Calle La Julieta
+Calle Santa Teresita
+Calle Casilda
+Calle Santa Elena
+Calle Vica León
+Calle Ligia Méndez
+Calle Blanca Durán
+Calle Trinidad
+Calle Amelia Granados
+Santa Barbara
+Calle Santa Marta
+Calle Montserrat
+Calle Damiana
+Calle Rafaela Madrigal
+Calle Delfina
+Calle Santa Lucía
+Calle Santa Teresa
+Calle Isabel Agüero
+Calle Ingrid
+Barrio Santa Lucia
+Calle Santa Cecilia
+Calle La Victoria
+Calle Santa Juana
+Calle Mercedes Valverde
+Calle Rocío
