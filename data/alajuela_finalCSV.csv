@@ -25,7 +25,6 @@ Avenida Bertilia;Bertilia;Bertilia;;2;Female;
 Calle Sonia;Sonia;Sonia;;2;Female;
 Avenida El Carmen;El Carmen;El;Carmen;2;Female;https://es.wikipedia.org/wiki/Virgen_del_Carmen
 Calle La Gardenia;La Gardenia;La;Gardenia;2;Female;
-Calle La Concordia;La Concordia;La;Concordia;2;Female;
 Avenida Magnolia;Magnolia;Magnolia;;2;Female;
 Calle Jessenia Zamora;Jessenia Zamora;Jessenia;Zamora;2;Female;
 Calle Damaris;Damaris;Damaris;;2;Female;
@@ -34,9 +33,7 @@ Calle La Eva;La Eva;La;Eva;2;Female;https://es.wikipedia.org/wiki/Eva
 Calle Isela;Isela;Isela;;2;Female;
 Calle Alicia;Alicia;Alicia;;2;Female;
 Calle Rosalía;Rosalía;Rosalía;;2;Female;
-Calle Cora;Cora;Cora;;2;Female;
 Calle Santa Lucia;Santa Lucia;Santa;Lucia;2;Female;https://es.wikipedia.org/wiki/Luc%C3%ADa_de_Siracusa
-Calle La Inmaculada;La Inmaculada;La;Inmaculada;2;Female;https://es.wikipedia.org/wiki/Mar%C3%ADa_(madre_de_Jes%C3%BAs)
 Calle La Virgen;La Virgen;La;Virgen;2;Female;https://es.wikipedia.org/wiki/Mar%C3%ADa_(madre_de_Jes%C3%BAs)
 Calle Julieta;Julieta;Julieta;;2;Female;
 Avenida Rosario;Rosario;Rosario;;2;Female;
@@ -55,9 +52,9 @@ Avenida Victoria;Victoria;Victoria;;2;Female;
 Calle La Simona;La Simona;La;Simona;2;Female;
 Calle Abelina;Abelina;Abelina;;2;Female;
 Avenida Santa Elena;Santa Elena;Santa;Elena;2;Female;https://es.wikipedia.org/wiki/Helena_de_Constantinopla
-Boulevard Alcides Jiménez Rojas;Alcides Jiménez Rojas;Alcides;Jiménez;2;Male;
-Calle Toño Mora;Toño Mora;Toño;Mora;2;Male;
-Calle Tranquilino Sáenz Flores;Tranquilino Sáenz Flores;Tranquilino;Sáenz;2;Male;
+Boulevard Alcides Jiménez Rojas;Alcides Jiménez Rojas;Alcides;Jiménez;-2;Male;
+Calle Toño Mora;Toño Mora;Toño;Mora;-2;Male;
+Calle Tranquilino Sáenz Flores;Tranquilino Sáenz Flores;Tranquilino;Sáenz;-2;Male;
 Calle San Martín;San Martín;San;Martín;-2;Male;
 Calle San Miguel;San Miguel;San;Miguel;-2;Male;
 Calle San Francisco;San Francisco;San;Francisco;-2;Male;
