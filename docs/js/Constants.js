@@ -27,8 +27,9 @@ function Constants(){
         {id: 'uruguay', name: 'Uruguay', citiesList:[
           {id: 'montevideo', name: 'Montevideo', datos: {numLink:78,pcLink:47.9,numNoLink:85,pcNoLink:52.1,numMale:1875,numFemale:163,pcMale:92.0,pcFemale:8.0,totalNames:2038}, center: [ -56.18816, -34.90328]}]},
         {id: 'costarica', name: 'Costa Rica', citiesList:[
+          {id: 'alajuela', name: 'Alajuela', datos: {numLink:8,pcLink:29.6,numNoLink:19,pcNoLink:70.4,numMale:38,numFemale:27,pcMale:58.5,pcFemale:41.5,totalNames:65}, center: [-84.198235,10.009604]},
           {id:'heredia', name:'Heredia', datos: {numLink:8,pcLink:27.6,numNoLink:21,pcNoLink:72.4,numMale:60,numFemale:29,pcMale:67.4,pcFemale:32.6,totalNames:89}, center:[-84.1191,9.998745]},
-          {id: 'sanjose', name: 'San Jose', datos: {numLink:4,pcLink:18.2,numNoLink:18,pcNoLink:81.8,numMale:51,numFemale:22,pcMale:69.9,pcFemale:30.1,totalNames:73}, center: [-84.0829,9.9191]}]}
+          {id: 'sanjose', name: 'San Jose', datos: {numLink:5,pcLink:11.6,numNoLink:38,pcNoLink:88.4,numMale:139,numFemale:43,pcMale:76.4,pcFemale:23.6,totalNames:182}, center: [-84.0829,9.9191]}]}
 
     ];
 
